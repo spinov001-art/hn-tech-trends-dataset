@@ -1,0 +1,4982 @@
+[
+  {
+    "query": "web scraping",
+    "title": "Congrats! Web scraping is legal! (US precedent)",
+    "url": "https://parsers.me/us-court-fully-legalized-website-scraping-and-technically-prohibited-it/",
+    "author": "ehurynovich",
+    "points": 1057,
+    "comments": 388,
+    "created": "2020-01-29T14:06:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22180559"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web scraping is legal, US appeals court reaffirms",
+    "url": "https://techcrunch.com/2022/04/18/web-scraping-legal-court/",
+    "author": "spenvo",
+    "points": 1040,
+    "comments": 237,
+    "created": "2022-04-18T19:37:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=31075396"
+  },
+  {
+    "query": "indie hacker",
+    "title": "IndieHackers.com acquired by Stripe",
+    "url": "https://www.indiehackers.com/blog/acquired-by-stripe",
+    "author": "ploggingdev",
+    "points": 1000,
+    "comments": 235,
+    "created": "2017-04-11T17:06:18Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14090063"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Indie Hackers: Learn how developers are making money",
+    "url": "https://www.indiehackers.com",
+    "author": "csallen",
+    "points": 971,
+    "comments": 184,
+    "created": "2016-08-11T16:12:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=12269425"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping in 2016",
+    "url": "https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/",
+    "author": "franciskim",
+    "points": 852,
+    "comments": 387,
+    "created": "2016-08-23T17:43:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=12345693"
+  },
+  {
+    "query": "AI startup",
+    "title": "Yann LeCun to depart Meta and launch AI startup focused on 'world models'",
+    "url": "https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models",
+    "author": "MindBreaker2605",
+    "points": 841,
+    "comments": 653,
+    "created": "2025-11-12T07:25:30Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45897271"
+  },
+  {
+    "query": "AI startup",
+    "title": "OpenAI to buy AI startup from Jony Ive",
+    "url": "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal",
+    "author": "minimaxir",
+    "points": 818,
+    "comments": 1126,
+    "created": "2025-05-21T17:01:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44053518"
+  },
+  {
+    "query": "bluesky",
+    "title": "When imperfect systems are good: Bluesky's lossy timelines",
+    "url": "https://jazco.dev/2025/02/19/imperfection/",
+    "author": "cyndunlop",
+    "points": 785,
+    "comments": 304,
+    "created": "2025-02-19T17:48:08Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43105028"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky announces data federation for self hosters",
+    "url": "https://bsky.social/about/blog/02-22-2024-open-social-web",
+    "author": "jakebsky",
+    "points": 760,
+    "comments": 449,
+    "created": "2024-02-22T18:30:44Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39471116"
+  },
+  {
+    "query": "bluesky",
+    "title": "This website is hosted on Bluesky",
+    "url": "https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/",
+    "author": "hasheddan",
+    "points": 713,
+    "comments": 168,
+    "created": "2024-11-24T20:43:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42230392"
+  },
+  {
+    "query": "AI startup",
+    "title": "Andreessen-Horowitz craps on “AI” startups from a great height",
+    "url": "https://scottlocklin.wordpress.com/2020/02/21/andreesen-horowitz-craps-on-ai-startups-from-a-great-height/",
+    "author": "dostoevsky",
+    "points": 695,
+    "comments": 244,
+    "created": "2020-02-24T20:31:09Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22408107"
+  },
+  {
+    "query": "automation tool",
+    "title": "GitHub launches Actions, its workflow automation tool",
+    "url": "https://techcrunch.com/2018/10/16/github-launches-actions-its-workflow-automation-tool/",
+    "author": "moritzplassnig",
+    "points": 642,
+    "comments": 145,
+    "created": "2018-10-16T17:08:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18231097"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Things I’ve Learned from Reading IndieHackers",
+    "url": "http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/",
+    "author": "scribu",
+    "points": 611,
+    "comments": 153,
+    "created": "2017-07-19T11:17:08Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14803468"
+  },
+  {
+    "query": "bluesky",
+    "title": "The Bluesky firehose viewed in the style of a Windows XP screensaver",
+    "url": "https://firehose3d.theo.io/",
+    "author": "consumer451",
+    "points": 602,
+    "comments": 149,
+    "created": "2024-11-16T22:07:58Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42159786"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web scraping for me, but not for thee",
+    "url": "https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm",
+    "author": "mhb",
+    "points": 582,
+    "comments": 152,
+    "created": "2023-08-25T17:42:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=37264676"
+  },
+  {
+    "query": "MCP server",
+    "title": "MCP server that reduces Claude Code context consumption by 98%",
+    "url": "https://mksg.lu/blog/context-mode",
+    "author": "mksglu",
+    "points": 570,
+    "comments": 107,
+    "created": "2026-02-28T10:01:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=47193064"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping: Bypassing “403 Forbidden,” captchas, and more",
+    "url": "http://sangaline.com/post/advanced-web-scraping-tutorial/",
+    "author": "foob",
+    "points": 564,
+    "comments": 225,
+    "created": "2017-03-16T12:14:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13884357"
+  },
+  {
+    "query": "bluesky",
+    "title": "Adobe deletes Bluesky posts after backlash",
+    "url": "https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/",
+    "author": "bookofjoe",
+    "points": 554,
+    "comments": 728,
+    "created": "2025-04-11T14:01:06Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43653885"
+  },
+  {
+    "query": "bluesky",
+    "title": "Show HN: I made a tool to port tweets to Bluesky mantaining their original date",
+    "url": "https://bluemigrate.com",
+    "author": "nols05",
+    "points": 524,
+    "comments": 213,
+    "created": "2025-03-18T17:07:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43401855"
+  },
+  {
+    "query": "web scraping",
+    "title": "Ask HN: What are best tools for web scraping?",
+    "url": "",
+    "author": "pydox",
+    "points": 502,
+    "comments": 228,
+    "created": "2017-11-14T11:13:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15694118"
+  },
+  {
+    "query": "automation tool",
+    "title": "Apple has acquired Workflow, an automation tool for iPad and iPhone",
+    "url": "https://techcrunch.com/2017/03/22/apple-has-acquired-workflow-a-powerful-automation-tool-for-ipad-and-iphone/",
+    "author": "gerosan",
+    "points": 499,
+    "comments": 147,
+    "created": "2017-03-22T23:41:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13936153"
+  },
+  {
+    "query": "bluesky",
+    "title": "Maybe Bluesky has \"won\"",
+    "url": "https://anderegg.ca/2024/11/15/maybe-bluesky-has-won",
+    "author": "GavinAnderegg",
+    "points": 461,
+    "comments": 793,
+    "created": "2024-11-15T19:56:21Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42150278"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: How do I get freelance developer jobs?",
+    "url": "",
+    "author": "jamesmp98",
+    "points": 433,
+    "comments": 108,
+    "created": "2016-12-18T19:53:28Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13207268"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping Is Vital to Democracy",
+    "url": "https://themarkup.org/news/2020/12/03/why-web-scraping-is-vital-to-democracy",
+    "author": "atg_abhishek",
+    "points": 426,
+    "comments": 121,
+    "created": "2020-12-04T03:55:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=25298697"
+  },
+  {
+    "query": "bluesky",
+    "title": "Brazil's X ban is sending lots of people to Bluesky",
+    "url": "https://www.theverge.com/2024/8/30/24232561/brazil-x-ban-sending-people-bluesky",
+    "author": "rvz",
+    "points": 420,
+    "comments": 743,
+    "created": "2024-08-31T13:28:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41408738"
+  },
+  {
+    "query": "AI startup",
+    "title": "U.S. widens trade blacklist to include some of China’s top AI startups",
+    "url": "https://www.reuters.com/article/us-usa-trade-china-exclusive/u-s-expands-blacklist-to-include-chinas-top-ai-startups-ahead-of-trade-talks-idUSKBN1WM25M",
+    "author": "nwrk",
+    "points": 419,
+    "comments": 335,
+    "created": "2019-10-08T18:01:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21195107"
+  },
+  {
+    "query": "AI startup",
+    "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+    "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+    "author": "ottomengis",
+    "points": 418,
+    "comments": 2,
+    "created": "2026-03-10T10:50:30Z",
+    "hn_url": "https://news.ycombinator.com/item?id=47321533"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI startup claims to automate app making but actually just uses humans",
+    "url": "https://www.theverge.com/2019/8/14/20805676/engineer-ai-artificial-intelligence-startup-app-development-outsourcing-humans",
+    "author": "smohnot",
+    "points": 410,
+    "comments": 289,
+    "created": "2019-08-15T15:41:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=20706174"
+  },
+  {
+    "query": "automation tool",
+    "title": "Ask HN: What automation tools have you used to replace mundane activities?",
+    "url": "",
+    "author": "beatthatflight",
+    "points": 408,
+    "comments": 229,
+    "created": "2020-02-17T02:35:21Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22345150"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky CEO Jay Graber is stepping down",
+    "url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
+    "author": "minimaxir",
+    "points": 403,
+    "comments": 372,
+    "created": "2026-03-09T19:09:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=47313884"
+  },
+  {
+    "query": "web scraping",
+    "title": "How Web Scraping Is Revealing Lobbying and Corruption in Peru",
+    "url": "https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru/",
+    "author": "bezzi",
+    "points": 398,
+    "comments": 72,
+    "created": "2016-03-09T21:50:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=11255973"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping 101 with Python",
+    "url": "https://www.scrapingbee.com/blog/web-scraping-101-with-python/",
+    "author": "daolf",
+    "points": 392,
+    "comments": 131,
+    "created": "2021-02-10T15:17:58Z",
+    "hn_url": "https://news.ycombinator.com/item?id=26090243"
+  },
+  {
+    "query": "bluesky",
+    "title": "A new form of verification on Bluesky",
+    "url": "https://bsky.social/about/blog/04-21-2025-verification",
+    "author": "ink_13",
+    "points": 384,
+    "comments": 296,
+    "created": "2025-04-21T16:16:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43753651"
+  },
+  {
+    "query": "bluesky",
+    "title": "Building Bluesky comments for my blog",
+    "url": "https://natalie.sh/posts/bluesky-comments/",
+    "author": "g0xA52A2A",
+    "points": 382,
+    "comments": 141,
+    "created": "2025-08-07T15:56:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44826164"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping in Python – The Complete Guide",
+    "url": "https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide",
+    "author": "anticlickwise",
+    "points": 378,
+    "comments": 146,
+    "created": "2024-02-20T15:16:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39442273"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web scraping with GPT-4o: powerful but expensive",
+    "url": "https://blancas.io/blog/ai-web-scraper/",
+    "author": "edublancas",
+    "points": 377,
+    "comments": 167,
+    "created": "2024-09-02T19:50:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41428274"
+  },
+  {
+    "query": "web scraping",
+    "title": "Introduction to web scraping with Python",
+    "url": "https://datawhatnow.com/introduction-web-scraping-python/",
+    "author": "weenkus",
+    "points": 373,
+    "comments": 60,
+    "created": "2017-10-24T06:17:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15539621"
+  },
+  {
+    "query": "AI startup",
+    "title": "Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'?",
+    "url": "https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784",
+    "author": "healsdata",
+    "points": 368,
+    "comments": 259,
+    "created": "2025-06-03T13:17:06Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44169759"
+  },
+  {
+    "query": "bluesky",
+    "title": "Be wary of Bluesky",
+    "url": "https://kevinak.se/blog/be-wary-of-bluesky",
+    "author": "kevinak",
+    "points": 366,
+    "comments": 262,
+    "created": "2026-02-20T23:35:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=47095597"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping via JavaScript Runtime Heap Snapshots (2022)",
+    "url": "https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots",
+    "author": "djoldman",
+    "points": 362,
+    "comments": 112,
+    "created": "2023-08-08T12:09:28Z",
+    "hn_url": "https://news.ycombinator.com/item?id=37047746"
+  },
+  {
+    "query": "MCP server",
+    "title": "MCP server for Ghidra",
+    "url": "https://github.com/LaurieWired/GhidraMCP",
+    "author": "tanelpoder",
+    "points": 356,
+    "comments": 70,
+    "created": "2025-03-25T18:47:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43474490"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web scraping via JavaScript runtime heap snapshots",
+    "url": "https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots",
+    "author": "adriancooney",
+    "points": 354,
+    "comments": 65,
+    "created": "2022-04-29T13:56:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=31205139"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky migrates to single-tenant SQLite",
+    "url": "https://github.com/bluesky-social/atproto/pull/1705",
+    "author": "HillRat",
+    "points": 354,
+    "comments": 233,
+    "created": "2023-11-07T00:22:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38171322"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky signups are now open to the public",
+    "url": "https://bsky.social/about/blog/02-06-2024-join-bluesky",
+    "author": "jakebsky",
+    "points": 349,
+    "comments": 273,
+    "created": "2024-02-06T15:01:28Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39274882"
+  },
+  {
+    "query": "AI startup",
+    "title": "YC criticized for backing AI startup that simply cloned another AI startup",
+    "url": "https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/",
+    "author": "blinding-streak",
+    "points": 333,
+    "comments": 259,
+    "created": "2024-10-01T12:27:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41707495"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky's stackable approach to moderation",
+    "url": "https://bsky.social/about/blog/03-12-2024-stackable-moderation",
+    "author": "steveklabnik",
+    "points": 324,
+    "comments": 192,
+    "created": "2024-03-12T19:43:18Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39684027"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky has launched RSS feeds",
+    "url": "https://openrss.org/blog/bluesky-has-launched-rss-feeds",
+    "author": "kieto",
+    "points": 324,
+    "comments": 189,
+    "created": "2024-01-16T00:05:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39007756"
+  },
+  {
+    "query": "web scraping",
+    "title": "Ask HN: What are the best tools for web scraping in 2022?",
+    "url": "",
+    "author": "pablohoffman",
+    "points": 313,
+    "comments": 151,
+    "created": "2022-08-10T09:46:10Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32409632"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky is on the verge of overtaking Threads in all the ways that matter",
+    "url": "https://mashable.com/article/bluesky-gaining-ground-on-competitor-meta-threads",
+    "author": "gnabgib",
+    "points": 301,
+    "comments": 336,
+    "created": "2024-11-24T22:23:14Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42231148"
+  },
+  {
+    "query": "bluesky",
+    "title": "I added a Bluesky comment section to my blog",
+    "url": "https://micahcantor.com/blog/bluesky-comment-section.html",
+    "author": "hydroxideOH-",
+    "points": 301,
+    "comments": 105,
+    "created": "2026-01-24T20:33:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=46747366"
+  },
+  {
+    "query": "indie hacker",
+    "title": "What are the most indispensable books for indie hackers?",
+    "url": "https://www.indiehackers.com/post/what-are-the-most-indispensable-books-for-indie-hackers-e2ec3a13e9",
+    "author": "ChanningAllen",
+    "points": 301,
+    "comments": 61,
+    "created": "2019-10-02T19:41:48Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21140052"
+  },
+  {
+    "query": "web scraping",
+    "title": "How we learnt to stop worrying and love web scraping",
+    "url": "https://www.nature.com/articles/d41586-020-02558-0",
+    "author": "danso",
+    "points": 300,
+    "comments": 151,
+    "created": "2020-09-09T12:09:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24420120"
+  },
+  {
+    "query": "bluesky",
+    "title": "I downloaded all 1.6M posts on Bluesky",
+    "url": "https://worthdoingbadly.com/bsky/",
+    "author": "serhack_",
+    "points": 300,
+    "comments": 272,
+    "created": "2023-05-06T21:28:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=35845504"
+  },
+  {
+    "query": "saas pricing",
+    "title": "I analyzed 250 SaaS pricing pages",
+    "url": "http://thenextweb.com/insider/2015/12/18/i-analyzed-250-saas-pricing-pages-heres-what-i-found/",
+    "author": "jackgavigan",
+    "points": 299,
+    "comments": 101,
+    "created": "2015-12-21T15:43:07Z",
+    "hn_url": "https://news.ycombinator.com/item?id=10771567"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
+    "url": "https://github.com/bethington/ghidra-mcp",
+    "author": "xerzes",
+    "points": 298,
+    "comments": 68,
+    "created": "2026-02-04T06:51:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=46882389"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web scraping case fails under Supreme Court's Dastar doctrine",
+    "url": "http://blog.internetcases.com/2018/11/19/web-scraping-case-fails-under-dastar/",
+    "author": "neoflexycurrent",
+    "points": 292,
+    "comments": 108,
+    "created": "2018-11-19T19:25:08Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18488939"
+  },
+  {
+    "query": "web scraping",
+    "title": "The State of Web Scraping 2022",
+    "url": "https://scrapeops.io/blog/the-state-of-web-scraping-2022/",
+    "author": "Ian_Kerins",
+    "points": 291,
+    "comments": 144,
+    "created": "2022-01-12T13:03:17Z",
+    "hn_url": "https://news.ycombinator.com/item?id=29905799"
+  },
+  {
+    "query": "web scraping",
+    "title": "Facebook was used as a proxy by web scraping bots",
+    "url": "https://datadome.co/bot-detection/how-facebook-was-used-as-a-proxy-by-web-scraping-bots/",
+    "author": "avastel",
+    "points": 285,
+    "comments": 119,
+    "created": "2020-11-05T18:15:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=25000514"
+  },
+  {
+    "query": "freelance developer",
+    "title": "How to be a freelance web developer, part 2",
+    "url": "http://ryanwaggoner.com/2010/10/how-to-be-a-freelance-web-developer-part-2/",
+    "author": "ryanwaggoner",
+    "points": 284,
+    "comments": 73,
+    "created": "2010-10-07T12:49:15Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1767620"
+  },
+  {
+    "query": "web scraping",
+    "title": "Show HN: Crawlee – Web scraping and browser automation library for Node.js",
+    "url": "https://crawlee.dev/",
+    "author": "jancurn",
+    "points": 282,
+    "comments": 80,
+    "created": "2022-08-23T06:25:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32561127"
+  },
+  {
+    "query": "AI startup",
+    "title": "Jim Keller moves to AI chip startup",
+    "url": "https://www.reuters.com/article/tenstorrent-tech/moves-former-intel-tesla-chip-exec-jim-keller-joins-artificial-intelligence-startup-idUSL1N2JG2I6",
+    "author": "vnorilo",
+    "points": 281,
+    "comments": 89,
+    "created": "2021-01-06T07:30:06Z",
+    "hn_url": "https://news.ycombinator.com/item?id=25655423"
+  },
+  {
+    "query": "web scraping",
+    "title": "The State of Web Scraping in 2021",
+    "url": "https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/",
+    "author": "marvram",
+    "points": 281,
+    "comments": 125,
+    "created": "2021-10-11T12:21:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=28827509"
+  },
+  {
+    "query": "bluesky",
+    "title": "User ban controversy reveals Bluesky’s decentralized aspiration isn’t reality",
+    "url": "https://plus.flux.community/p/banning-controversy-reveals-blueskys",
+    "author": "gregsadetsky",
+    "points": 280,
+    "comments": 381,
+    "created": "2025-10-07T19:44:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45507880"
+  },
+  {
+    "query": "web scraping",
+    "title": "I Don’t Need No Stinking API: Web Scraping For Fun and Profit",
+    "url": "http://blog.hartleybrody.com/web-scraping/",
+    "author": "hartleybrody",
+    "points": 279,
+    "comments": 172,
+    "created": "2012-12-09T05:02:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4893864"
+  },
+  {
+    "query": "automation tool",
+    "title": "Hammerspoon – Lua-based powerful tool automation of macOS",
+    "url": "https://www.hammerspoon.org/",
+    "author": "gurjeet",
+    "points": 272,
+    "comments": 80,
+    "created": "2021-12-12T20:52:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=29533495"
+  },
+  {
+    "query": "web scraping",
+    "title": "Ask HN: Best practices for ethical web scraping?",
+    "url": "",
+    "author": "aspyct",
+    "points": 270,
+    "comments": 107,
+    "created": "2020-04-04T13:27:21Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22778089"
+  },
+  {
+    "query": "bluesky",
+    "title": "Trying to use Bluesky without getting burned again",
+    "url": "https://chrisholdgraf.com/blog/2024/bluesky",
+    "author": "ianrahman",
+    "points": 269,
+    "comments": 538,
+    "created": "2024-12-29T12:13:02Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42539462"
+  },
+  {
+    "query": "bluesky",
+    "title": "We need to protect the protocol that runs Bluesky",
+    "url": "https://www.technologyreview.com/2025/01/17/1110063/we-need-to-protect-the-protocol-that-runs-bluesky/",
+    "author": "srameshc",
+    "points": 262,
+    "comments": 306,
+    "created": "2025-01-19T00:53:38Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42752703"
+  },
+  {
+    "query": "market research",
+    "title": "Facebook will shut down its controversial market research app for iOS",
+    "url": "https://www.theverge.com/facebook/2019/1/30/18203349/facebook-research-app-apple-shutdown",
+    "author": "flylib",
+    "points": 261,
+    "comments": 218,
+    "created": "2019-01-30T08:00:16Z",
+    "hn_url": "https://news.ycombinator.com/item?id=19033451"
+  },
+  {
+    "query": "bluesky",
+    "title": "Visualizing 13M Bluesky users",
+    "url": "https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users",
+    "author": "joelg",
+    "points": 261,
+    "comments": 237,
+    "created": "2024-11-12T18:25:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42118180"
+  },
+  {
+    "query": "web scraping",
+    "title": "Ferret – Declarative web scraping",
+    "url": "https://github.com/MontFerret/ferret",
+    "author": "ziflex",
+    "points": 260,
+    "comments": 92,
+    "created": "2018-10-02T15:59:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18122847"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: MCP server for searching and downloading documents from Anna's Archive",
+    "url": "https://github.com/iosifache/annas-mcp",
+    "author": "iosifache",
+    "points": 256,
+    "comments": 79,
+    "created": "2025-07-09T21:06:38Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44514753"
+  },
+  {
+    "query": "freelance developer",
+    "title": "How to become a freelance web developer",
+    "url": "http://ryanwaggoner.com/2010/10/how-to-become-a-freelance-web-developer/",
+    "author": "ryanwaggoner",
+    "points": 256,
+    "comments": 63,
+    "created": "2010-10-06T12:39:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1763634"
+  },
+  {
+    "query": "web scraping",
+    "title": "Show HN: Crawlee for Python – a web scraping and browser automation library",
+    "url": "https://crawlee.dev/python/",
+    "author": "jancurn",
+    "points": 254,
+    "comments": 57,
+    "created": "2024-07-09T08:30:38Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40913736"
+  },
+  {
+    "query": "AI startup",
+    "title": "HN Slop: AI startup ideas generated from Hacker News",
+    "url": "https://www.josh.ing/hn-slop",
+    "author": "coloneltcb",
+    "points": 249,
+    "comments": 98,
+    "created": "2025-07-01T15:31:45Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44434938"
+  },
+  {
+    "query": "bluesky",
+    "title": "How Does Bluesky Work?",
+    "url": "https://steveklabnik.com/writing/how-does-bluesky-work",
+    "author": "steveklabnik",
+    "points": 248,
+    "comments": 91,
+    "created": "2024-02-24T21:38:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39495355"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky Goes Dark in Mississippi over Age Verification Law",
+    "url": "https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/",
+    "author": "BallsInIt",
+    "points": 247,
+    "comments": 172,
+    "created": "2025-08-22T22:51:27Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44990886"
+  },
+  {
+    "query": "AI startup",
+    "title": "73% of AI startups are just prompt engineering",
+    "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
+    "author": "kllrnohj",
+    "points": 246,
+    "comments": 205,
+    "created": "2025-11-23T16:17:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=46024644"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky and the AT Protocol: Usable decentralized social media",
+    "url": "https://arxiv.org/abs/2402.03239",
+    "author": "lawgimenez",
+    "points": 245,
+    "comments": 276,
+    "created": "2024-02-06T15:25:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39275203"
+  },
+  {
+    "query": "automation tool",
+    "title": "Don Libes' Expect: A Surprisingly Underappreciated Unix Automation Tool",
+    "url": "http://blog.robertelder.org/don-libes-expect-unix-automation-tool/",
+    "author": "robertelder",
+    "points": 245,
+    "comments": 102,
+    "created": "2016-12-08T13:49:15Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13130218"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: How to do market research for product?",
+    "url": "",
+    "author": "mr_o47",
+    "points": 243,
+    "comments": 112,
+    "created": "2023-07-04T04:07:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36582117"
+  },
+  {
+    "query": "bluesky",
+    "title": "Scientists say X has lost its professional edge and Bluesky is taking its place",
+    "url": "https://www.psypost.org/scientists-say-x-formerly-twitter-has-lost-its-professional-edge-and-bluesky-is-taking-its-place/",
+    "author": "CharlesW",
+    "points": 243,
+    "comments": 325,
+    "created": "2025-09-27T15:10:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45396377"
+  },
+  {
+    "query": "bluesky",
+    "title": "Consuming the Bluesky firehose for less than $2.50/mo",
+    "url": "https://bsky.bad-example.com/consuming-the-firehose-cheaply/",
+    "author": "colinprince",
+    "points": 240,
+    "comments": 61,
+    "created": "2024-11-15T23:13:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42152362"
+  },
+  {
+    "query": "automation tool",
+    "title": "n8n.io - A powerful workflow automation tool",
+    "url": "https://n8n.io",
+    "author": "sacrosanct",
+    "points": 237,
+    "comments": 99,
+    "created": "2023-08-26T16:06:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=37274052"
+  },
+  {
+    "query": "web scraping",
+    "title": "Mastering Web Scraping in Python: Crawling from Scratch",
+    "url": "https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch",
+    "author": "maltz",
+    "points": 233,
+    "comments": 81,
+    "created": "2021-08-11T13:55:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=28142002"
+  },
+  {
+    "query": "indie hacker",
+    "title": "After losing my savings as an indie hacker, I can't do it anymore. I quit.",
+    "url": "https://www.indiehackers.com/post/after-losing-38676-as-an-indie-hacker-i-cant-do-it-anymore-i-quit-8673223598",
+    "author": "ChanningAllen",
+    "points": 232,
+    "comments": 144,
+    "created": "2020-11-15T20:36:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=25104578"
+  },
+  {
+    "query": "indie hacker",
+    "title": "What tech stacks are indie hackers using for their apps, and why?",
+    "url": "https://www.indiehackers.com/round-table/what-tech-should-you-use-in-2018",
+    "author": "ChanningAllen",
+    "points": 230,
+    "comments": 192,
+    "created": "2018-07-20T19:38:14Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17578226"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: WhatsApp MCP Server",
+    "url": "https://github.com/lharries/whatsapp-mcp",
+    "author": "lharries",
+    "points": 229,
+    "comments": 138,
+    "created": "2025-03-31T09:32:54Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43532967"
+  },
+  {
+    "query": "MCP server",
+    "title": "Damn Vulnerable MCP Server",
+    "url": "https://github.com/harishsg993010/damn-vulnerable-MCP-server",
+    "author": "mrxhacker99",
+    "points": 227,
+    "comments": 63,
+    "created": "2025-04-16T16:00:21Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43707021"
+  },
+  {
+    "query": "bluesky",
+    "title": "Jack Dorsey Unveils Bluesky Social",
+    "url": "https://ssaurel.medium.com/jack-dorsey-unveils-bluesky-social-the-decentralized-twitter-killer-cc6eec0c56e5",
+    "author": "throw7",
+    "points": 226,
+    "comments": 162,
+    "created": "2022-10-24T23:05:09Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33323815"
+  },
+  {
+    "query": "AI startup",
+    "title": "Tenstorrent and the State of AI Hardware Startups",
+    "url": "https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware",
+    "author": "zdw",
+    "points": 224,
+    "comments": 124,
+    "created": "2024-12-15T02:59:58Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42421157"
+  },
+  {
+    "query": "AI startup",
+    "title": "Show HN: I'm 16 and building an AI based startup called Factful with friends",
+    "url": "https://factful.io/",
+    "author": "helloduck1234",
+    "points": 222,
+    "comments": 152,
+    "created": "2024-05-01T12:00:10Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40222051"
+  },
+  {
+    "query": "bluesky",
+    "title": "Purchase and manage domains directly through Bluesky",
+    "url": "https://blueskyweb.xyz/blog/7-05-2023-namecheap",
+    "author": "ted0",
+    "points": 221,
+    "comments": 339,
+    "created": "2023-07-07T02:43:08Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36626405"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web scraping with Python open knowledge",
+    "url": "https://github.com/reanalytics-databoutique/webscraping-open-project",
+    "author": "PigiVinci83",
+    "points": 219,
+    "comments": 74,
+    "created": "2022-05-27T16:45:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=31531694"
+  },
+  {
+    "query": "AI startup",
+    "title": "OpenAI Is Just Another Boring, Desperate AI Startup",
+    "url": "https://www.wheresyoured.at/sora2-openai/",
+    "author": "speckx",
+    "points": 218,
+    "comments": 262,
+    "created": "2025-10-03T16:37:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45464849"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky Is Not Decentralized",
+    "url": "https://beige.party/@possibledog/113367977656537478",
+    "author": "pabs3",
+    "points": 218,
+    "comments": 194,
+    "created": "2024-10-26T06:36:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41952994"
+  },
+  {
+    "query": "web scraping",
+    "title": "Show HN: MrScraper – A visual web-scraping tool",
+    "url": "https://mrscraper.com",
+    "author": "buffer_overflow",
+    "points": 215,
+    "comments": 82,
+    "created": "2023-02-10T07:19:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=34736691"
+  },
+  {
+    "query": "web scraping",
+    "title": "Ask HN: What’s the legality of web scraping?",
+    "url": "",
+    "author": "malshe",
+    "points": 214,
+    "comments": 113,
+    "created": "2019-06-23T16:33:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=20256681"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: A “Course” as an MCP Server",
+    "url": "https://mastra.ai/course",
+    "author": "codekarate",
+    "points": 213,
+    "comments": 32,
+    "created": "2025-06-10T20:36:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44241202"
+  },
+  {
+    "query": "bluesky",
+    "title": "The Bluesky Dictionary",
+    "url": "https://www.avibagla.com/blueskydictionary/",
+    "author": "gaws",
+    "points": 212,
+    "comments": 54,
+    "created": "2025-08-06T20:43:08Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44817583"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky adds direct messages",
+    "url": "https://bsky.social/about/blog/05-22-2024-direct-messages",
+    "author": "charlieok",
+    "points": 210,
+    "comments": 198,
+    "created": "2024-05-22T18:59:44Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40444778"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky is currently gaining more than 1M users a day",
+    "url": "https://bsky.jazco.dev/stats",
+    "author": "henrijn",
+    "points": 209,
+    "comments": 231,
+    "created": "2024-11-16T21:58:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42159713"
+  },
+  {
+    "query": "market research",
+    "title": "Google Docs makes it easy to do market research",
+    "url": "https://plus.google.com/115195708001192408562/posts/BiGE3gwjDkB",
+    "author": "jasonkolb",
+    "points": 207,
+    "comments": 41,
+    "created": "2013-03-07T16:21:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=5338433"
+  },
+  {
+    "query": "automation tool",
+    "title": "Launch HN: Enso (YC S21) – Visual programming and workflow automation tool",
+    "url": "",
+    "author": "wdanilo",
+    "points": 205,
+    "comments": 54,
+    "created": "2021-07-06T14:05:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=27748738"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping and Crawling Are Perfectly Legal, Right? (2017)",
+    "url": "https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/",
+    "author": "heshiebee",
+    "points": 204,
+    "comments": 125,
+    "created": "2019-07-30T23:36:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=20570318"
+  },
+  {
+    "query": "bluesky",
+    "title": "Why isn't Bluesky a peer-to-peer network?",
+    "url": "https://www.pfrazee.com/blog/why-not-p2p",
+    "author": "jakebsky",
+    "points": 204,
+    "comments": 161,
+    "created": "2024-01-22T04:36:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39086244"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky now has 30 million users",
+    "url": "https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v",
+    "author": "belter",
+    "points": 200,
+    "comments": 179,
+    "created": "2025-02-03T10:17:41Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42916770"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Apple Health MCP Server",
+    "url": "https://github.com/neiltron/apple-health-mcp",
+    "author": "_neil",
+    "points": 199,
+    "comments": 49,
+    "created": "2025-07-23T17:23:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44661673"
+  },
+  {
+    "query": "bluesky",
+    "title": "Scientists No Longer Find X Professionally Useful, and Have Switched to Bluesky",
+    "url": "https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icaf127/8196180?redirectedFrom=fulltext&login=false",
+    "author": "sebg",
+    "points": 199,
+    "comments": 182,
+    "created": "2025-08-21T22:22:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44978815"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky Reaches 10M Accounts",
+    "url": "https://bsky.app/profile/bsky.app/post/3l47prg3wgy23",
+    "author": "Kye",
+    "points": 199,
+    "comments": 115,
+    "created": "2024-09-15T20:20:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41550053"
+  },
+  {
+    "query": "web scraping",
+    "title": "Upton: A Web Scraping Framework",
+    "url": "http://www.propublica.org/nerds/item/upton-a-web-scraping-framework",
+    "author": "t1c1",
+    "points": 198,
+    "comments": 61,
+    "created": "2013-07-22T19:41:52Z",
+    "hn_url": "https://news.ycombinator.com/item?id=6086031"
+  },
+  {
+    "query": "bluesky",
+    "title": "Ask HN: Bluesky Accounts Worth Following for HN Enthusiasts",
+    "url": "",
+    "author": "IAmGraydon",
+    "points": 198,
+    "comments": 130,
+    "created": "2024-11-20T01:18:21Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42189890"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping with Python",
+    "url": "https://www.scrapingbee.com/blog/web-scraping-101-with-python/",
+    "author": "daolf",
+    "points": 195,
+    "comments": 77,
+    "created": "2022-05-15T12:50:26Z",
+    "hn_url": "https://news.ycombinator.com/item?id=31387248"
+  },
+  {
+    "query": "web scraping",
+    "title": "ScrapeGraphAI: Web scraping using LLM and direct graph logic",
+    "url": "https://scrapegraph-doc.onrender.com/",
+    "author": "ulrischa",
+    "points": 194,
+    "comments": 63,
+    "created": "2024-05-07T19:41:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40290596"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky is ushering in a pick-your-own algorithm era of social media",
+    "url": "https://www.newscientist.com/article/2456782-bluesky-is-ushering-in-a-pick-your-own-algorithm-era-of-social-media/",
+    "author": "amichail",
+    "points": 193,
+    "comments": 252,
+    "created": "2024-11-20T12:59:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42193549"
+  },
+  {
+    "query": "AI startup",
+    "title": "Why AI Infrastructure Startups Are Insanely Hard to Build",
+    "url": "https://nextword.substack.com/p/why-ai-infrastructure-startups-are",
+    "author": "nextworddev",
+    "points": 192,
+    "comments": 181,
+    "created": "2024-07-03T03:15:58Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40862436"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Indie Hackers is indie again",
+    "url": "https://www.indiehackers.com/product/indie-hackers/indie-hackers-is-indie-again--NSIAlb7LggSjzTavQZb",
+    "author": "TimLeland",
+    "points": 192,
+    "comments": 78,
+    "created": "2023-04-05T21:05:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=35460375"
+  },
+  {
+    "query": "AI startup",
+    "title": "Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML",
+    "url": "https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06",
+    "author": "jmsflknr",
+    "points": 188,
+    "comments": 110,
+    "created": "2023-06-26T12:18:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36478734"
+  },
+  {
+    "query": "AI startup",
+    "title": "Ex-Google CEO: AI startups can steal IP and hire lawyers to 'clean up the mess'",
+    "url": "https://www.theverge.com/2024/8/14/24220658/google-eric-schmidt-stanford-talk-ai-startups-openai",
+    "author": "stalfosknight",
+    "points": 187,
+    "comments": 192,
+    "created": "2024-08-17T15:08:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41275073"
+  },
+  {
+    "query": "MCP server",
+    "title": "Directory of MCP Servers",
+    "url": "https://github.com/chatmcp/mcpso",
+    "author": "saikatsg",
+    "points": 187,
+    "comments": 65,
+    "created": "2025-05-17T19:14:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44016336"
+  },
+  {
+    "query": "web scraping",
+    "title": "Build Your Own Mobile Proxy for Web Scraping",
+    "url": "https://scrapingfish.com/blog/byo-mobile-proxy-for-web-scraping",
+    "author": "mateuszbuda",
+    "points": 185,
+    "comments": 31,
+    "created": "2022-08-17T14:30:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32496915"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: GitMCP is an automatic MCP server for every GitHub repo",
+    "url": "https://gitmcp.io/",
+    "author": "liadyo",
+    "points": 185,
+    "comments": 60,
+    "created": "2025-04-03T18:28:44Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43573539"
+  },
+  {
+    "query": "AI startup",
+    "title": "China’s SenseTime, the world’s highest-valued AI startup, closes $620M round",
+    "url": "https://techcrunch.com/2018/05/30/even-more-money-for-senstime-ai-china/",
+    "author": "alex_young",
+    "points": 184,
+    "comments": 113,
+    "created": "2018-05-31T14:47:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17196704"
+  },
+  {
+    "query": "MCP server",
+    "title": "Trading with Claude, and writing your own MCP server",
+    "url": "https://dangelov.com/blog/trading-with-claude/",
+    "author": "dangelov",
+    "points": 180,
+    "comments": 83,
+    "created": "2025-05-22T12:59:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44061614"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky facing degraded performance due to record high traffic",
+    "url": "https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h",
+    "author": "chandramdutta",
+    "points": 180,
+    "comments": 201,
+    "created": "2023-07-01T19:26:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36554053"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping with JavaScript",
+    "url": "https://qoob.cc/web-scraping/",
+    "author": "paulpro",
+    "points": 178,
+    "comments": 88,
+    "created": "2020-10-26T16:34:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24898016"
+  },
+  {
+    "query": "AI startup",
+    "title": "Most AI startups are doomed",
+    "url": "https://weightythoughts.com/p/most-ai-startups-are-doomed",
+    "author": "j-wang",
+    "points": 177,
+    "comments": 132,
+    "created": "2023-11-28T19:28:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38450087"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web Scraping to Create Open Data",
+    "url": "https://blog.scrapinghub.com/2016/03/30/web-scraping-to-create-open-data/",
+    "author": "stummjr",
+    "points": 176,
+    "comments": 55,
+    "created": "2016-03-30T17:36:11Z",
+    "hn_url": "https://news.ycombinator.com/item?id=11391218"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: I created a browser automation tool",
+    "url": "https://www.rocketride.io",
+    "author": "iamandras",
+    "points": 176,
+    "comments": 55,
+    "created": "2022-08-05T05:58:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32352291"
+  },
+  {
+    "query": "freelance developer",
+    "title": "How To Become a Successful Freelance Web Developer (and Not Kill Your Career)",
+    "url": "http://www.jamiebegin.com/how-to-become-a-successful-freelance-web-developer-and-not-kill-your-career/",
+    "author": "Killswitch",
+    "points": 174,
+    "comments": 64,
+    "created": "2012-12-27T20:39:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4974944"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Analyzing Indie Hacker Products with Verified Revenue",
+    "url": "https://scrapingfish.com/blog/indie-hackers-revenue",
+    "author": "mateuszbuda",
+    "points": 173,
+    "comments": 118,
+    "created": "2022-07-19T13:33:16Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32151172"
+  },
+  {
+    "query": "web scraping",
+    "title": "The uncanny valley of web scraping",
+    "url": "http://www.zemanta.com/fruitblog/the-uncanny-valley-of-web-scraping/",
+    "author": "Swizec",
+    "points": 172,
+    "comments": 49,
+    "created": "2012-02-28T11:24:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3642774"
+  },
+  {
+    "query": "web scraping",
+    "title": "Ask HN: Can web scraping be the basis of a viable business model?",
+    "url": "",
+    "author": "fforflo",
+    "points": 171,
+    "comments": 111,
+    "created": "2021-12-18T15:25:09Z",
+    "hn_url": "https://news.ycombinator.com/item?id=29605104"
+  },
+  {
+    "query": "saas pricing",
+    "title": "The Saddest SaaS Pricing Pages of the Year",
+    "url": "http://blog.priceintelligently.com/blog/bid/192297/The-Saddest-SaaS-Pricing-Pages-of-the-Year",
+    "author": "pccampbell",
+    "points": 171,
+    "comments": 82,
+    "created": "2014-01-02T16:46:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=7000477"
+  },
+  {
+    "query": "automation tool",
+    "title": "My thirty years of dodging repetitive work with automation tools",
+    "url": "https://www.tines.com/blog/my-thirty-years-of-dodging-repetitive-work-with-automation-tools",
+    "author": "conoro",
+    "points": 170,
+    "comments": 66,
+    "created": "2022-02-07T19:10:28Z",
+    "hn_url": "https://news.ycombinator.com/item?id=30249518"
+  },
+  {
+    "query": "MCP server",
+    "title": "MCP-Scanner – Scan MCP Servers for vulnerabilities",
+    "url": "https://github.com/cisco-ai-defense/mcp-scanner",
+    "author": "hsanthan",
+    "points": 168,
+    "comments": 50,
+    "created": "2025-10-27T17:18:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45723699"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Cloud-Ready Postgres MCP Server",
+    "url": "https://github.com/stuzero/pg-mcp",
+    "author": "spennant",
+    "points": 167,
+    "comments": 79,
+    "created": "2025-03-30T03:14:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43520953"
+  },
+  {
+    "query": "web scraping",
+    "title": "Show HN: Web scraping page analyzer",
+    "url": "https://www.apify.com/page-analyzer",
+    "author": "jardah",
+    "points": 166,
+    "comments": 50,
+    "created": "2018-02-13T11:14:44Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16366275"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing: Lessons from Changes",
+    "url": "https://blog.canny.io/saas-pricing-lessons/",
+    "author": "a13n",
+    "points": 166,
+    "comments": 31,
+    "created": "2018-02-13T15:03:16Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16367600"
+  },
+  {
+    "query": "web scraping",
+    "title": "Avoiding Webscraping Throttling Using Python and Tor as a Proxy",
+    "url": "https://boredhacking.com/tor-webscraping-proxy/",
+    "author": "bored_hacker",
+    "points": 165,
+    "comments": 90,
+    "created": "2019-07-13T18:34:52Z",
+    "hn_url": "https://news.ycombinator.com/item?id=20429462"
+  },
+  {
+    "query": "bluesky",
+    "title": "Domain Names as Handles in Bluesky",
+    "url": "https://blueskyweb.xyz/blog/3-6-2023-domain-names-as-handles-in-bluesky",
+    "author": "archb",
+    "points": 164,
+    "comments": 164,
+    "created": "2023-03-07T01:31:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=35050335"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky adds 700k new users in a week",
+    "url": "https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads",
+    "author": "doughnutstracks",
+    "points": 162,
+    "comments": 168,
+    "created": "2024-11-12T03:07:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42112432"
+  },
+  {
+    "query": "indie hacker",
+    "title": "B2B SaaS marketplaces with opportunities for indie hackers",
+    "url": "https://rocketgems.com/blog/saas-marketplaces/",
+    "author": "khuknows",
+    "points": 160,
+    "comments": 81,
+    "created": "2021-01-22T12:02:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=25870899"
+  },
+  {
+    "query": "web scraping",
+    "title": "Python web scraping resources",
+    "url": "http://jakeaustwick.me/python-web-scraping-resource/?mc_list=python",
+    "author": "dchuk",
+    "points": 158,
+    "comments": 33,
+    "created": "2014-08-04T22:47:48Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8134498"
+  },
+  {
+    "query": "MCP server",
+    "title": "Poison everywhere: No output from your MCP server is safe",
+    "url": "https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe",
+    "author": "Bogdanp",
+    "points": 158,
+    "comments": 70,
+    "created": "2025-06-08T22:00:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44219755"
+  },
+  {
+    "query": "bluesky",
+    "title": "A Look at Bluesky",
+    "url": "https://juliette.page/blog/bluesky.html",
+    "author": "julietteeb",
+    "points": 156,
+    "comments": 135,
+    "created": "2023-07-02T01:50:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36557378"
+  },
+  {
+    "query": "bluesky",
+    "title": "Blueskyfeedbot: Post RSS Feeds to Bluesky via GitHub Actions",
+    "url": "https://github.com/marketplace/actions/feed-to-bluesky",
+    "author": "hrpnk",
+    "points": 154,
+    "comments": 70,
+    "created": "2025-01-30T00:12:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42873153"
+  },
+  {
+    "query": "web scraping",
+    "title": "Show HN: Web Scraping in Google Sheets",
+    "url": "https://link.fish/google-sheet-add-on/",
+    "author": "linkfish",
+    "points": 153,
+    "comments": 31,
+    "created": "2018-02-28T15:07:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16483426"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: How much are you earning as a freelance app developer?",
+    "url": "",
+    "author": "cronjobma",
+    "points": 152,
+    "comments": 115,
+    "created": "2017-07-17T17:04:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14790406"
+  },
+  {
+    "query": "AI startup",
+    "title": "Y Combinator Supports AI Startup Dehumanizing Factory Workers",
+    "url": "https://www.404media.co/optifyeai-ycombinator-startup-ai-factory/",
+    "author": "thm",
+    "points": 151,
+    "comments": 36,
+    "created": "2025-02-26T05:08:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43180834"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: MCP server for Blender that builds 3D scenes via natural language",
+    "url": "https://blender-mcp-psi.vercel.app/",
+    "author": "prono",
+    "points": 151,
+    "comments": 61,
+    "created": "2025-07-20T06:01:45Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44622374"
+  },
+  {
+    "query": "web scraping",
+    "title": "Web scraping with your web browser: Why not?",
+    "url": "https://8chananon.github.io/tut/scraping1.html",
+    "author": "8chanAnon",
+    "points": 150,
+    "comments": 73,
+    "created": "2024-10-01T17:55:59Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41711835"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Don't Blindly Model Your SaaS Pricing on 37signals",
+    "url": "http://www.ginzametrics.com/dont-blindly-model-your-saas-pricing-on-37signals",
+    "author": "rgrieselhuber",
+    "points": 149,
+    "comments": 62,
+    "created": "2012-11-16T22:01:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4796106"
+  },
+  {
+    "query": "automation tool",
+    "title": "Igloo: A simple Windows automation tool",
+    "url": "https://easyigloo.org",
+    "author": "easyigloo",
+    "points": 148,
+    "comments": 33,
+    "created": "2019-10-20T01:28:32Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21301784"
+  },
+  {
+    "query": "AI startup",
+    "title": "Mira Murati’s AI startup Thinking Machines valued at $12B in early-stage funding",
+    "url": "https://www.reuters.com/technology/mira-muratis-ai-startup-thinking-machines-raises-2-billion-a16z-led-round-2025-07-15/",
+    "author": "spenvo",
+    "points": 147,
+    "comments": 245,
+    "created": "2025-07-15T17:19:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44573574"
+  },
+  {
+    "query": "web scraping",
+    "title": "Show HN: Web scraping that just works with OpenFaaS with Puppeteer",
+    "url": "https://www.openfaas.com/blog/puppeteer-scraping/",
+    "author": "alexellisuk",
+    "points": 145,
+    "comments": 15,
+    "created": "2020-10-31T14:07:07Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24951594"
+  },
+  {
+    "query": "data extraction",
+    "title": "Nvidia-Ingest: Multi-modal data extraction",
+    "url": "https://github.com/NVIDIA/nv-ingest",
+    "author": "mihaid150",
+    "points": 145,
+    "comments": 45,
+    "created": "2025-01-10T09:17:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42654019"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: MCP Server SDK in Bash",
+    "url": "https://github.com/muthuishere/mcp-server-bash-sdk",
+    "author": "muthuishere",
+    "points": 144,
+    "comments": 36,
+    "created": "2025-05-30T04:25:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44132823"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky's AT Protocol - Federation Architecture Overview",
+    "url": "https://blueskyweb.xyz/blog/5-5-2023-federation-architecture",
+    "author": "capableweb",
+    "points": 143,
+    "comments": 82,
+    "created": "2023-05-05T19:33:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=35834106"
+  },
+  {
+    "query": "web scraping",
+    "title": "Show HN: Getting started with Puppeteer and Chrome Headless for Web Scraping",
+    "url": "https://github.com/emadehsan/thal",
+    "author": "emadehsan",
+    "points": 142,
+    "comments": 37,
+    "created": "2017-08-29T03:09:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15121836"
+  },
+  {
+    "query": "web scraping",
+    "title": "Rvest: Easy web scraping with R",
+    "url": "http://blog.rstudio.org/2014/11/24/rvest-easy-web-scraping-with-r/",
+    "author": "hadley",
+    "points": 142,
+    "comments": 28,
+    "created": "2014-11-24T15:21:31Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8652736"
+  },
+  {
+    "query": "web scraping",
+    "title": "Ask HN: How do you feel about web scraping?",
+    "url": "",
+    "author": "jackschultz",
+    "points": 141,
+    "comments": 163,
+    "created": "2017-06-06T21:33:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14501564"
+  },
+  {
+    "query": "bluesky",
+    "title": "Show HN: I organized Bluesky feeds by categories and growth rankings",
+    "url": "https://www.bskyinfo.com/feeds/",
+    "author": "laimingj",
+    "points": 141,
+    "comments": 105,
+    "created": "2025-01-23T01:26:52Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42799574"
+  },
+  {
+    "query": "bluesky",
+    "title": "How to self-host all of Bluesky except the AppView (for now)",
+    "url": "https://alice.bsky.sh/post/3laega7icmi2q",
+    "author": "icy",
+    "points": 140,
+    "comments": 79,
+    "created": "2024-11-08T13:13:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42086596"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: We made an MCP server so Cursor can debug Node.js on its own",
+    "url": "https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger",
+    "author": "arthurgousset",
+    "points": 139,
+    "comments": 72,
+    "created": "2025-03-22T15:57:26Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43446659"
+  },
+  {
+    "query": "web scraping",
+    "title": "Python web scraping",
+    "url": "http://jakeaustwick.me/python-web-scraping-resource/",
+    "author": "Jake232",
+    "points": 138,
+    "comments": 62,
+    "created": "2014-03-10T20:45:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=7375575"
+  },
+  {
+    "query": "AI startup",
+    "title": "Lessons from YC AI Startups",
+    "url": "https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups",
+    "author": "charlierguo",
+    "points": 137,
+    "comments": 93,
+    "created": "2023-09-13T01:12:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=37490924"
+  },
+  {
+    "query": "AI startup",
+    "title": "How to create an AI startup – convince some humans to be your training set",
+    "url": "http://simplystatistics.org/2016/03/30/humans-as-training-set/",
+    "author": "simplystats",
+    "points": 137,
+    "comments": 32,
+    "created": "2016-03-30T12:21:05Z",
+    "hn_url": "https://news.ycombinator.com/item?id=11388698"
+  },
+  {
+    "query": "web scraping",
+    "title": "Show HN: Page Replica – Tool for Web Scraping, Prerendering, and SEO Boost",
+    "url": "https://github.com/html5-ninja/page-replica",
+    "author": "nirvanist",
+    "points": 135,
+    "comments": 54,
+    "created": "2024-01-01T15:09:50Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38832257"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: MCP-Shield – Detect security issues in MCP servers",
+    "url": "https://github.com/riseandignite/mcp-shield",
+    "author": "nick_wolf",
+    "points": 134,
+    "comments": 39,
+    "created": "2025-04-15T05:15:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43689178"
+  },
+  {
+    "query": "MCP server",
+    "title": "Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools",
+    "url": "",
+    "author": "wirehack",
+    "points": 133,
+    "comments": 66,
+    "created": "2025-09-23T14:52:07Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45347914"
+  },
+  {
+    "query": "AI startup",
+    "title": "Altman was raising billions from Middle East sovereign funds for AI chip startup",
+    "url": "https://twitter.com/unusual_whales/status/1725945364140986796?s=20",
+    "author": "A_Duck",
+    "points": 132,
+    "comments": 82,
+    "created": "2023-11-18T20:19:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38323939"
+  },
+  {
+    "query": "AI startup",
+    "title": "Dear AI startups: Your ML models are dying quietly",
+    "url": "https://sanau.co/ML-models-are-dying-quietly",
+    "author": "jimmyechan",
+    "points": 132,
+    "comments": 39,
+    "created": "2019-04-22T20:25:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=19722594"
+  },
+  {
+    "query": "automation tool",
+    "title": "Bashible: An Ansible-inspired deployment/automation tool written in Bash DSL",
+    "url": "https://github.com/mig1984/bashible",
+    "author": "vitro",
+    "points": 132,
+    "comments": 83,
+    "created": "2020-03-23T22:42:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22669565"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Lessons learned on SaaS pricing",
+    "url": "https://zimtik.com/en/posts/lessons-learned-on-saas-pricing",
+    "author": "lbj",
+    "points": 130,
+    "comments": 35,
+    "created": "2022-01-10T10:32:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=29872777"
+  },
+  {
+    "query": "bluesky",
+    "title": "Show HN: I Built a Reddit-style Bluesky client – still rough, but open to ideas",
+    "url": "https://threadsky.app/",
+    "author": "lakshikag",
+    "points": 127,
+    "comments": 48,
+    "created": "2025-02-15T13:19:17Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43058285"
+  },
+  {
+    "query": "bluesky",
+    "title": "Bluesky's science takeover: 70% of Nature poll respondents use platform",
+    "url": "https://www.nature.com/articles/d41586-025-00177-1",
+    "author": "ironyman",
+    "points": 126,
+    "comments": 176,
+    "created": "2025-01-24T14:27:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42813316"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: I built a MCP server so Claude can play Minesweeper",
+    "url": "https://github.com/tonypan2/minesweeper-mcp-server",
+    "author": "tonypan",
+    "points": 123,
+    "comments": 38,
+    "created": "2025-03-20T07:58:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43420678"
+  },
+  {
+    "query": "AI startup",
+    "title": "What Neeva's quiet exit tells us about the future of AI startups",
+    "url": "https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about",
+    "author": "bobvanluijt",
+    "points": 121,
+    "comments": 89,
+    "created": "2023-05-26T20:19:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36089055"
+  },
+  {
+    "query": "data extraction",
+    "title": "HTML to Excel data extraction",
+    "url": "http://www.listly.io/",
+    "author": "changmin",
+    "points": 121,
+    "comments": 21,
+    "created": "2017-04-15T14:26:06Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14120821"
+  },
+  {
+    "query": "AI startup",
+    "title": "Andrew Ng says bottleneck in AI startups isn't coding – it's product management",
+    "url": "https://www.businessinsider.com/andrew-ng-product-management-bottleneck-coding-ai-startups-2025-8",
+    "author": "cl42",
+    "points": 120,
+    "comments": 146,
+    "created": "2025-08-27T19:43:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45044155"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: An MCP server for understanding AWS costs",
+    "url": "",
+    "author": "StratusBen",
+    "points": 119,
+    "comments": 23,
+    "created": "2025-04-25T14:43:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43794120"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing (2013)",
+    "url": "https://training.kalzumeus.com/newsletters/archive/saas_pricing",
+    "author": "tzury",
+    "points": 118,
+    "comments": 22,
+    "created": "2017-05-22T08:08:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14391823"
+  },
+  {
+    "query": "AI startup",
+    "title": "If it works, it's not AI: a commercial look at AI startups (1999)",
+    "url": "https://dspace.mit.edu/handle/1721.1/80558",
+    "author": "rbanffy",
+    "points": 115,
+    "comments": 59,
+    "created": "2025-06-07T13:52:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44209665"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: I built an email marketing tool made for indie hackers and solopreneurs",
+    "url": "https://www.useplunk.com",
+    "author": "driaug",
+    "points": 109,
+    "comments": 60,
+    "created": "2022-07-25T18:58:48Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32229278"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Career.fork() - How To Thrive As A Freelance Developer",
+    "url": "https://leanpub.com/freelancedeveloperbook",
+    "author": "hekker",
+    "points": 109,
+    "comments": 63,
+    "created": "2012-08-25T15:18:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4432266"
+  },
+  {
+    "query": "AI startup",
+    "title": "The idea maze for AI startups (2015)",
+    "url": "https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/",
+    "author": "gmays",
+    "points": 108,
+    "comments": 41,
+    "created": "2023-06-28T14:28:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36507010"
+  },
+  {
+    "query": "AI startup",
+    "title": "French AI startup Mistral secures €2B valuation",
+    "url": "https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb",
+    "author": "admp",
+    "points": 107,
+    "comments": 76,
+    "created": "2023-12-09T10:57:41Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38580758"
+  },
+  {
+    "query": "AI startup",
+    "title": "Apple reportedly buys AI startup with privacy-conscious approach",
+    "url": "https://www.theverge.com/2018/11/21/18106192/apple-privacy-ai-silk-labs-acquisition",
+    "author": "evo_9",
+    "points": 107,
+    "comments": 25,
+    "created": "2018-11-21T15:25:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18503327"
+  },
+  {
+    "query": "MCP server",
+    "title": "R MCP Server",
+    "url": "https://github.com/finite-sample/rmcp",
+    "author": "neehao",
+    "points": 106,
+    "comments": 15,
+    "created": "2025-09-17T00:18:54Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45270015"
+  },
+  {
+    "query": "MCP server",
+    "title": "Terraform MCP Server",
+    "url": "https://github.com/hashicorp/terraform-mcp-server",
+    "author": "kesor",
+    "points": 105,
+    "comments": 21,
+    "created": "2025-05-19T22:50:26Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44035770"
+  },
+  {
+    "query": "MCP server",
+    "title": "Mapbox Geospatial MCP Server",
+    "url": "https://github.com/mapbox/mcp-server",
+    "author": "tmcw",
+    "points": 105,
+    "comments": 14,
+    "created": "2025-06-11T12:56:26Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44247124"
+  },
+  {
+    "query": "automation tool",
+    "title": "Don Libes' Expect: A Surprisingly Underappreciated Unix Automation Tool (2016)",
+    "url": "https://blog.robertelder.org/don-libes-expect-unix-automation-tool/",
+    "author": "dvfjsdhgfv",
+    "points": 104,
+    "comments": 32,
+    "created": "2019-11-23T11:45:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21613647"
+  },
+  {
+    "query": "MCP server",
+    "title": "A better Ghidra MCP server – GhidrAssistMCP",
+    "url": "https://github.com/jtang613/GhidrAssistMCP",
+    "author": "jtang613",
+    "points": 103,
+    "comments": 17,
+    "created": "2025-07-12T18:21:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44543913"
+  },
+  {
+    "query": "data extraction",
+    "title": "Advanced Image Manipulation and Data Extraction",
+    "url": "https://blog.algorithmia.com/advanced-image-manipulation-and-data-extraction/",
+    "author": "mikeyanderson",
+    "points": 103,
+    "comments": 20,
+    "created": "2017-12-21T23:06:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15983731"
+  },
+  {
+    "query": "AI startup",
+    "title": "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
+    "url": "https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/",
+    "author": "bookofjoe",
+    "points": 102,
+    "comments": 107,
+    "created": "2025-09-29T16:03:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45415428"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: We made an MCP Server so Cursor can build things from REST API docs",
+    "url": "https://www.npmjs.com/package/apidog-mcp-server",
+    "author": "goargp",
+    "points": 102,
+    "comments": 73,
+    "created": "2025-03-24T10:21:02Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43459240"
+  },
+  {
+    "query": "data extraction",
+    "title": "Fitbit Firmware Modifications and Data Extraction [video]",
+    "url": "https://media.ccc.de/v/34c3-8908-doping_your_fitbit",
+    "author": "DyslexicAtheist",
+    "points": 101,
+    "comments": 17,
+    "created": "2017-12-30T13:13:45Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16035108"
+  },
+  {
+    "query": "saas pricing",
+    "title": "The Anatomy of SaaS Pricing Strategy (2017) [pdf]",
+    "url": "https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf",
+    "author": "rfreytag",
+    "points": 101,
+    "comments": 5,
+    "created": "2022-11-09T00:59:31Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33526325"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI Startups in Montreal",
+    "url": "https://www.wired.co.uk/article/best-startups-montreal",
+    "author": "myth_drannon",
+    "points": 97,
+    "comments": 58,
+    "created": "2018-10-22T17:41:07Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18276642"
+  },
+  {
+    "query": "MCP server",
+    "title": "Kiwi.com flight search MCP server",
+    "url": "https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search",
+    "author": "Eldodi",
+    "points": 96,
+    "comments": 99,
+    "created": "2025-08-27T15:56:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45041397"
+  },
+  {
+    "query": "AI startup",
+    "title": "85% of AI Startups Will Be Out of Business in 3 Years, Major Investor Says",
+    "url": "https://www.thestreet.com/technology/ai-85-pct-of-startups-will-be-out-of-business-in-3-years-major-investor-says",
+    "author": "TalktoCrystal",
+    "points": 95,
+    "comments": 71,
+    "created": "2023-07-18T09:46:10Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36769965"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI chip startup Wave to buy Silicon Valley old-timer MIPS",
+    "url": "https://www.cnet.com/news/ai-chip-startup-wave-buys-silicon-valley-old-timer-mips/",
+    "author": "mindcrime",
+    "points": 95,
+    "comments": 63,
+    "created": "2018-06-14T15:04:58Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17312244"
+  },
+  {
+    "query": "MCP server",
+    "title": "Introducing the Developer Knowledge API and MCP Server",
+    "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+    "author": "gfortaine",
+    "points": 95,
+    "comments": 34,
+    "created": "2026-02-06T23:58:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=46919824"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Growth Ranker – Top-growing products on Indie Hackers",
+    "url": "https://www.growthranker.com",
+    "author": "bsears",
+    "points": 95,
+    "comments": 20,
+    "created": "2018-12-12T19:50:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18667160"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI startups require new strategies: This time it's different",
+    "url": "https://longform.asmartbear.com/ai-startups/",
+    "author": "gmays",
+    "points": 94,
+    "comments": 26,
+    "created": "2024-03-03T14:46:32Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39581130"
+  },
+  {
+    "query": "automation tool",
+    "title": "Turtles, a Shelly/Zigbee home automation tool in Elixir",
+    "url": "https://joisig.com/2023-holiday-side-project-turtles",
+    "author": "joisig",
+    "points": 92,
+    "comments": 53,
+    "created": "2024-01-04T09:05:31Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38864774"
+  },
+  {
+    "query": "saas pricing",
+    "title": "How we de-risked our SaaS pricing strategy",
+    "url": "http://blog.frontapp.com/2017/02/13/how-we-de-risked-our-saas-pricing-strategy/",
+    "author": "wellokthen",
+    "points": 92,
+    "comments": 24,
+    "created": "2017-02-28T18:30:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13756302"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: An MCP server that gives LLMs temporal awareness and time calculation",
+    "url": "https://github.com/jlumbroso/passage-of-time-mcp",
+    "author": "lumbroso",
+    "points": 91,
+    "comments": 55,
+    "created": "2025-07-16T14:55:31Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44583014"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: I built an MCP server using Cloudflare's code mode pattern",
+    "url": "https://github.com/jx-codes/codemode-mcp",
+    "author": "jmcodes",
+    "points": 87,
+    "comments": 29,
+    "created": "2025-09-28T16:23:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45405584"
+  },
+  {
+    "query": "AI startup",
+    "title": "The AI startup drama that's damaging Y Combinator's reputation",
+    "url": "https://www.indiehackers.com/post/starting-up/the-ai-startup-drama-thats-damaging-y-combinator-s-reputation-GQKuTmpGV2uWOCoxtHBn",
+    "author": "olalonde",
+    "points": 85,
+    "comments": 51,
+    "created": "2024-10-02T16:43:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41722507"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: I rolled my own simple support / Helpdesk SaaS aimed at Indie Hackers",
+    "url": "https://reallysimplesupport.com",
+    "author": "gigamick",
+    "points": 84,
+    "comments": 69,
+    "created": "2022-02-22T00:08:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=30422470"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Minimal MCP server in Go showcasing project architecture",
+    "url": "https://github.com/TuanKiri/weather-mcp-server",
+    "author": "TuanKiri",
+    "points": 83,
+    "comments": 12,
+    "created": "2025-04-07T18:44:17Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43614582"
+  },
+  {
+    "query": "AI startup",
+    "title": "Buzzy AI startup for generating 3D models used cheap human labor",
+    "url": "https://www.404media.co/kaedim-ai-startup-2d-to-3d-used-cheap-human-labor/",
+    "author": "jshchnz",
+    "points": 82,
+    "comments": 44,
+    "created": "2023-09-06T14:12:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=37405450"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Nia – MCP server that gives more docs and repos to coding agents",
+    "url": "https://www.trynia.ai/",
+    "author": "jellyotsiro",
+    "points": 82,
+    "comments": 68,
+    "created": "2025-07-24T15:05:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44671601"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI: Startup vs Incumbent Value (2022)",
+    "url": "https://blog.eladgil.com/p/ai-startup-vs-incumbent-value",
+    "author": "tristanMatthias",
+    "points": 81,
+    "comments": 29,
+    "created": "2023-07-18T03:27:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36767452"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Indie Hackers: Now Invite-Only",
+    "url": "https://www.indiehackers.com/post/whats-new-indie-hackers-is-now-invite-only-cfed6a6a67",
+    "author": "edroche",
+    "points": 81,
+    "comments": 20,
+    "created": "2021-08-03T12:17:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=28048279"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Launch HN: TrapFi (YC W18) pays freelance developers by the pull request",
+    "url": "",
+    "author": "trapfitech",
+    "points": 81,
+    "comments": 63,
+    "created": "2018-03-19T17:01:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16620111"
+  },
+  {
+    "query": "MCP server",
+    "title": "Exposed MCP servers across the internet",
+    "url": "https://www.knostic.ai/blog/mapping-mcp-servers-study",
+    "author": "gepeto42",
+    "points": 80,
+    "comments": 30,
+    "created": "2025-07-18T13:29:50Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44604453"
+  },
+  {
+    "query": "AI startup",
+    "title": "Ask HN: What is the skillset for programmers at AI startups?",
+    "url": "",
+    "author": "meifun",
+    "points": 79,
+    "comments": 30,
+    "created": "2016-07-22T21:15:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=12146841"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: GuMCP – Open-source MCP servers, hosted for free",
+    "url": "https://github.com/gumloop/guMCP",
+    "author": "murb",
+    "points": 79,
+    "comments": 18,
+    "created": "2025-03-31T15:06:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43535889"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Hangout: Becoming a freelance developer",
+    "url": "",
+    "author": "adamloving",
+    "points": 79,
+    "comments": 32,
+    "created": "2015-07-06T16:41:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9840328"
+  },
+  {
+    "query": "AI startup",
+    "title": "Bhutan's first AI startup is seven college kids in a dorm",
+    "url": "https://restofworld.org/2024/bhutan-first-ai-startup/",
+    "author": "NDAjam",
+    "points": 77,
+    "comments": 22,
+    "created": "2024-07-17T14:21:26Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40986261"
+  },
+  {
+    "query": "saas pricing",
+    "title": "KISSmetrics' Guide to SaaS Pricing",
+    "url": "http://www.slideshare.net/kissmetrics/ultimate-guide-to-saas-pricing",
+    "author": "michaelrkn",
+    "points": 77,
+    "comments": 12,
+    "created": "2013-03-03T19:51:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=5315003"
+  },
+  {
+    "query": "market research",
+    "title": "Steve Jobs on why Apple doesn’t do market research",
+    "url": "http://bokardo.com/archives/steve-jobs-on-why-apple-doesnt-do-market-research/",
+    "author": "craigbellot",
+    "points": 75,
+    "comments": 44,
+    "created": "2009-07-29T15:55:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=730217"
+  },
+  {
+    "query": "automation tool",
+    "title": "Coding for non-programmers: Why we need better GUI automation tools",
+    "url": "https://matduggan.com/why-we-need-better/",
+    "author": "dgudkov",
+    "points": 75,
+    "comments": 43,
+    "created": "2021-12-04T10:57:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=29440077"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI Startup Says It Has Defeated Captchas",
+    "url": "http://www.technologyreview.com/news/520581/ai-startup-says-it-has-defeated-captchas/",
+    "author": "Larx-3",
+    "points": 73,
+    "comments": 78,
+    "created": "2013-10-28T05:28:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=6625351"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: A MCP server and client implementing the latest spec",
+    "url": "https://github.com/hemanth/paws-on-mcp",
+    "author": "init0",
+    "points": 72,
+    "comments": 27,
+    "created": "2025-06-10T06:30:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44233315"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI and Startup Moats",
+    "url": "https://unzip.dev/0x01f-ai-and-startup-moats/",
+    "author": "vismit2000",
+    "points": 71,
+    "comments": 78,
+    "created": "2025-01-07T10:00:08Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42620994"
+  },
+  {
+    "query": "AI startup",
+    "title": "FTC Chair Lina Khan on AI regulation, startup acquisitions, and more [audio]",
+    "url": "https://www.ycombinator.com/blog/garry-tan-interviews-ftc-chair-lina-khan/",
+    "author": "todsacerdoti",
+    "points": 70,
+    "comments": 66,
+    "created": "2023-11-07T18:01:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38180402"
+  },
+  {
+    "query": "AI startup",
+    "title": "Mistral: The 9-Month-Old AI Startup Challenging Silicon Valley's Giants",
+    "url": "https://www.wsj.com/tech/ai/the-9-month-old-ai-startup-challenging-silicon-valleys-giants-ee2e4c48",
+    "author": "helsinkiandrew",
+    "points": 70,
+    "comments": 33,
+    "created": "2024-02-28T08:04:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39535283"
+  },
+  {
+    "query": "MCP server",
+    "title": "Building MCP servers for ChatGPT and API integrations",
+    "url": "https://platform.openai.com/docs/mcp",
+    "author": "kevinslin",
+    "points": 70,
+    "comments": 30,
+    "created": "2025-07-24T20:59:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44676066"
+  },
+  {
+    "query": "AI startup",
+    "title": "Eric Schmidt helped write AI laws without disclosing investments in AI startups",
+    "url": "https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html",
+    "author": "mfiguiere",
+    "points": 69,
+    "comments": 27,
+    "created": "2022-10-24T18:10:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33320230"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI startups raised $6.9B in Q1 2020",
+    "url": "https://angel.co/today/stories/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus-17659",
+    "author": "noelceta",
+    "points": 67,
+    "comments": 33,
+    "created": "2020-04-15T10:21:08Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22876187"
+  },
+  {
+    "query": "AI startup",
+    "title": "AI-Startup Launches Ever-Expanding Library of Free Stock Photos and Music",
+    "url": "https://torrentfreak.com/ai-startup-launches-ever-expanding-library-of-free-stock-photos-and-music-240413/",
+    "author": "nen-nomad",
+    "points": 66,
+    "comments": 35,
+    "created": "2024-04-13T16:42:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40024273"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing Models and How They Affect Valuation",
+    "url": "https://empireflippers.com/saas-pricing-models/",
+    "author": "mlef94",
+    "points": 65,
+    "comments": 17,
+    "created": "2020-05-15T15:36:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=23193397"
+  },
+  {
+    "query": "MCP server",
+    "title": "Fetch-MCP: Playwright-Based MCP Server with Batch URL Fetching Support",
+    "url": "https://github.com/jae-jae/fetch-mcp",
+    "author": "Sulfide6416",
+    "points": 64,
+    "comments": 14,
+    "created": "2025-03-20T03:40:41Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43419713"
+  },
+  {
+    "query": "market research",
+    "title": "Child-safety software sells kids' IM conversations to market-research companies",
+    "url": "http://www.google.com/hostednews/ap/article/ALeqM5i5CjgMEdrwRm3JxeglUykMAHAYmAD9AGNVM00",
+    "author": "rms",
+    "points": 64,
+    "comments": 15,
+    "created": "2009-09-07T20:48:48Z",
+    "hn_url": "https://news.ycombinator.com/item?id=809732"
+  },
+  {
+    "query": "AI startup",
+    "title": "Over 40% of the latest YC batch are AI/ML startups",
+    "url": "https://www.ignorance.ai/p/analyzing-over-100-ai-startups-from-yc",
+    "author": "charlierguo",
+    "points": 63,
+    "comments": 126,
+    "created": "2023-04-06T06:33:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=35464933"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Hyperbrowser MCP Server – Connect AI agents to the web through browsers",
+    "url": "https://github.com/hyperbrowserai/mcp",
+    "author": "shrisukhani",
+    "points": 63,
+    "comments": 26,
+    "created": "2025-03-20T17:01:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43425767"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: HyprMCP – Analytics, logs and auth for MCP servers",
+    "url": "https://github.com/hyprmcp/jetski",
+    "author": "pmig",
+    "points": 59,
+    "comments": 8,
+    "created": "2025-10-08T23:27:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45521788"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Representing Agents as MCP Servers",
+    "url": "https://github.com/lastmile-ai/mcp-agent/tree/main/examples/mcp_agent_server",
+    "author": "saqadri",
+    "points": 58,
+    "comments": 16,
+    "created": "2025-05-21T17:19:52Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44053754"
+  },
+  {
+    "query": "data extraction",
+    "title": "Maxun: Open-Source No-Code Web Data Extraction Platform",
+    "url": "https://github.com/getmaxun/maxun",
+    "author": "thunderbong",
+    "points": 58,
+    "comments": 8,
+    "created": "2024-11-09T05:54:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42092755"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Simple to build MCP servers that easily connect with custom LLM calls",
+    "url": "https://mirascope.com/learn/mcp/server/",
+    "author": "wbakst",
+    "points": 57,
+    "comments": 25,
+    "created": "2025-02-01T00:50:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42894425"
+  },
+  {
+    "query": "market research",
+    "title": "Supercomputer Porn - Letting your competitors do your market research for you",
+    "url": "http://steveblank.com/2009/10/12/ardent-3-supercomputer-porn/",
+    "author": "bhousel",
+    "points": 57,
+    "comments": 16,
+    "created": "2009-10-12T17:20:48Z",
+    "hn_url": "https://news.ycombinator.com/item?id=877193"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing: Our Big Free Plan Mistake",
+    "url": "http://blog.hubstaff.stfi.re/saas-pricing-free-plan-mistake/",
+    "author": "AliCollins",
+    "points": 57,
+    "comments": 52,
+    "created": "2015-06-29T15:36:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9798726"
+  },
+  {
+    "query": "automation tool",
+    "title": "Ask HN: Flexible, lightweight build automation/CI tool?",
+    "url": "",
+    "author": "jakobegger",
+    "points": 50,
+    "comments": 43,
+    "created": "2017-12-18T19:24:17Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15954551"
+  },
+  {
+    "query": "indie hacker",
+    "title": "I miss the old IndieHackers website, so I started an alternative",
+    "url": "https://www.skool.com/indie-makers-5425/about",
+    "author": "contctlink",
+    "points": 48,
+    "comments": 15,
+    "created": "2024-07-10T08:46:15Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40924936"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: AI-powered web service combining FastAPI, Pydantic-AI, and MCP servers",
+    "url": "https://github.com/Aherontas/Pycon_Greece_2025_Presentation_Agents",
+    "author": "Aherontas",
+    "points": 46,
+    "comments": 24,
+    "created": "2025-09-14T21:17:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45243320"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: We packaged an MCP server inside Chromium",
+    "url": "https://github.com/browseros-ai/BrowserOS/blob/main/docs/browseros-mcp/how-to-guide.mdx",
+    "author": "felarof",
+    "points": 46,
+    "comments": 17,
+    "created": "2025-10-17T16:22:07Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45618536"
+  },
+  {
+    "query": "automation tool",
+    "title": "Which automation tools/scripts do you use to save time and feel like a boss?",
+    "url": "",
+    "author": "behnamoh",
+    "points": 46,
+    "comments": 62,
+    "created": "2017-03-28T15:56:27Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13977673"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: SaaS pricing pages with high prices and not “contact sales”",
+    "url": "",
+    "author": "undyingtrillion",
+    "points": 46,
+    "comments": 61,
+    "created": "2023-09-30T17:29:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=37717689"
+  },
+  {
+    "query": "MCP server",
+    "title": "From OpenAPI spec to MCP: How we built Xata's MCP server",
+    "url": "https://xata.io/blog/built-xata-mcp-server",
+    "author": "tudorg",
+    "points": 45,
+    "comments": 17,
+    "created": "2025-05-25T08:41:13Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44086456"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing Strategy: The 10x Rule",
+    "url": "http://sixteenventures.com/saas-pricing-strategy",
+    "author": "brissmyr",
+    "points": 45,
+    "comments": 16,
+    "created": "2014-01-09T23:44:45Z",
+    "hn_url": "https://news.ycombinator.com/item?id=7034048"
+  },
+  {
+    "query": "MCP server",
+    "title": "Ask HN: What is so good about MCP servers?",
+    "url": "",
+    "author": "metadat",
+    "points": 44,
+    "comments": 38,
+    "created": "2025-07-25T01:23:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44678426"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Open-Source MCP Server for Context and AI Tools",
+    "url": "",
+    "author": "apichar",
+    "points": 43,
+    "comments": 12,
+    "created": "2025-03-14T23:15:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43368327"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: What are your favorite freelance developer websites?",
+    "url": "",
+    "author": "askhn7",
+    "points": 43,
+    "comments": 10,
+    "created": "2019-11-13T14:55:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21524780"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: Books about sales for indie hackers and small SaaS businesses",
+    "url": "",
+    "author": "arunsivadasan",
+    "points": 42,
+    "comments": 14,
+    "created": "2024-03-24T15:24:44Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39807806"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: A MCP server to evaluate Python code in WASM VM using RustPython",
+    "url": "https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py",
+    "author": "tuananh",
+    "points": 41,
+    "comments": 13,
+    "created": "2025-05-17T13:49:06Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44014323"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: Open-Source Infra for a Single MCP Server to Search and Use 600 Tools",
+    "url": "https://github.com/aipotheosis-labs/aci",
+    "author": "ObnoxiousProxy",
+    "points": 41,
+    "comments": 0,
+    "created": "2025-04-28T12:58:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43821038"
+  },
+  {
+    "query": "market research",
+    "title": "Dimeadozen.ai – AI-powered market research for any startup",
+    "url": "https://www.dimeadozen.ai/",
+    "author": "vyrotek",
+    "points": 41,
+    "comments": 17,
+    "created": "2023-08-02T16:06:29Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36972790"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Advice on Beggining a Career as a Freelance Web-Developer.",
+    "url": "http://ericharrison.info/2010/06/01/ama-how-do-i-get-started-as-a-freelance-web-developer/",
+    "author": "blister",
+    "points": 41,
+    "comments": 17,
+    "created": "2010-06-01T23:11:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1396441"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Any Indiehackers.com Alternatives",
+    "url": "",
+    "author": "wuliwong",
+    "points": 40,
+    "comments": 10,
+    "created": "2024-11-04T17:20:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42043755"
+  },
+  {
+    "query": "MCP server",
+    "title": "A type-safe, intuitive Go SDK for building MCP servers with ease and confidence",
+    "url": "https://github.com/ktr0731/go-mcp",
+    "author": "ktr0731",
+    "points": 38,
+    "comments": 9,
+    "created": "2025-04-14T15:14:28Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43682207"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing Manifesto",
+    "url": "https://help.sunsama.com/docs/pricing-manifesto",
+    "author": "priyadarshy",
+    "points": 38,
+    "comments": 8,
+    "created": "2021-12-16T04:14:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=29574750"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Where do you find freelance developers",
+    "url": "",
+    "author": "strooltz",
+    "points": 38,
+    "comments": 26,
+    "created": "2010-05-27T14:13:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1383631"
+  },
+  {
+    "query": "MCP server",
+    "title": "Show HN: MCPGod: Fine-grained control over MCP clients, servers, and tools",
+    "url": "https://github.com/mcpgod/cli",
+    "author": "gavinuhma",
+    "points": 37,
+    "comments": 11,
+    "created": "2025-03-11T12:58:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43331973"
+  },
+  {
+    "query": "data extraction",
+    "title": "WikipediaQL: Query language for efficient data extraction from Wikipedia (early",
+    "url": "https://github.com/zverok/wikipedia_ql",
+    "author": "todsacerdoti",
+    "points": 37,
+    "comments": 12,
+    "created": "2021-07-05T15:31:44Z",
+    "hn_url": "https://news.ycombinator.com/item?id=27738969"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: Why haven't we seen a race to the bottom in SaaS pricing?",
+    "url": "",
+    "author": "majani",
+    "points": 37,
+    "comments": 67,
+    "created": "2023-12-10T21:31:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38595256"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: KeyTik: The All-in-One Automation Tool",
+    "url": "https://github.com/Fajar-RahmadJaya/KeyTik",
+    "author": "Fajar_Rahmad",
+    "points": 36,
+    "comments": 13,
+    "created": "2024-12-07T10:19:50Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42348716"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Isis Casalduc, a Miss Universe Puerto Rico 2002 turned indie hacker",
+    "url": "https://getmakerlog.com/stories/from-miss-universe-to-indie-hacker-with-isis-casalduc",
+    "author": "sergiomattei",
+    "points": 34,
+    "comments": 16,
+    "created": "2020-06-05T21:56:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=23434485"
+  },
+  {
+    "query": "market research",
+    "title": "350-page Internet market research report from JP Morgan",
+    "url": "http://www.scribd.com/doc/11482768/JPMorgan-Nothing-but-Net-1509",
+    "author": "fnazeeri",
+    "points": 33,
+    "comments": 9,
+    "created": "2009-01-29T03:39:13Z",
+    "hn_url": "https://news.ycombinator.com/item?id=455761"
+  },
+  {
+    "query": "data extraction",
+    "title": "Lawsuit names NordVPN, Tesonet in proxy data extraction scheme",
+    "url": "https://restoreprivacy.com/lawsuit-names-nordvpn-tesonet/",
+    "author": "anigbrowl",
+    "points": 31,
+    "comments": 20,
+    "created": "2018-08-30T00:15:05Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17873164"
+  },
+  {
+    "query": "automation tool",
+    "title": "DevOps Is Not about Automation Tools (But They're a Prerequisite)",
+    "url": "https://blog.containership.io/devops-is-not-about-automation-tools-but-theyre-a-prerequisite",
+    "author": "phildougherty",
+    "points": 31,
+    "comments": 0,
+    "created": "2016-12-05T18:35:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13107925"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Bitdog – a completely hackable home automation toolset",
+    "url": "",
+    "author": "bitdog_io",
+    "points": 30,
+    "comments": 16,
+    "created": "2018-10-04T15:45:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18140947"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: What Is the Best Book for Indie SaaS Hackers",
+    "url": "",
+    "author": "motyar",
+    "points": 29,
+    "comments": 18,
+    "created": "2024-03-27T13:41:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39838961"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Made more money as a contractor than as a freelance developer. Help!",
+    "url": "",
+    "author": "openbasic",
+    "points": 29,
+    "comments": 33,
+    "created": "2018-01-26T01:43:52Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16236416"
+  },
+  {
+    "query": "automation tool",
+    "title": "Arara: the cool TeX automation tool",
+    "url": "https://gitlab.com/islandoftex/arara",
+    "author": "nanna",
+    "points": 28,
+    "comments": 6,
+    "created": "2021-02-21T07:55:48Z",
+    "hn_url": "https://news.ycombinator.com/item?id=26211705"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: What tech stack to choose in my first stint as a freelance developer?",
+    "url": "",
+    "author": "romanovtexas",
+    "points": 28,
+    "comments": 20,
+    "created": "2017-08-25T01:29:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15095472"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Loom Helps Entrepreneurs Lure Freelance Developers with Equity",
+    "url": "https://techcrunch.com/2017/02/16/loom/",
+    "author": "Elof",
+    "points": 28,
+    "comments": 4,
+    "created": "2017-02-17T18:04:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13670297"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: A list of books recommended by Indie Hackers",
+    "url": "https://www.ihbooks.com/",
+    "author": "opourquier",
+    "points": 27,
+    "comments": 4,
+    "created": "2018-12-13T09:26:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18671009"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Beginning freelance web developer: no clients - portfolio?",
+    "url": "",
+    "author": "tripplez",
+    "points": 26,
+    "comments": 21,
+    "created": "2011-04-29T09:15:48Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2496818"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Kitten – Tiny multi-server automation tool",
+    "url": "https://github.com/hoffa/kitten",
+    "author": "crehn",
+    "points": 24,
+    "comments": 8,
+    "created": "2018-05-30T15:49:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17188687"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: What's the most time-consuming part of your job as freelance developer?",
+    "url": "",
+    "author": "mrassili",
+    "points": 24,
+    "comments": 16,
+    "created": "2020-07-06T10:35:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=23746419"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Rules for SaaS Pricing",
+    "url": "https://earlygtm.substack.com/p/rules-for-saas-pricing",
+    "author": "fromthegut",
+    "points": 22,
+    "comments": 1,
+    "created": "2022-10-02T01:48:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33051973"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: What Happened to Indie Hackers?",
+    "url": "",
+    "author": "triceratop",
+    "points": 22,
+    "comments": 8,
+    "created": "2021-04-20T21:51:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=26882280"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Has anyone hired a freelance developer for a MVP?",
+    "url": "",
+    "author": "seawra",
+    "points": 22,
+    "comments": 28,
+    "created": "2021-01-01T19:40:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=25606099"
+  },
+  {
+    "query": "market research",
+    "title": "The Zero Dollar, 5 Minutes Market Research",
+    "url": "http://macournoyer.com/blog/2010/08/10/market-research/",
+    "author": "webmat",
+    "points": 21,
+    "comments": 1,
+    "created": "2010-08-10T17:57:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1592371"
+  },
+  {
+    "query": "market research",
+    "title": "Top notch UK market research tool from Google",
+    "url": "http://www.google.co.uk/intl/en/landing/internetstats/",
+    "author": "joshklein",
+    "points": 21,
+    "comments": 0,
+    "created": "2011-06-01T14:24:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2607366"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Iauto – Low-Code automation tool that integrates LLM and RPA",
+    "url": "https://github.com/shellc/iauto",
+    "author": "shellc",
+    "points": 21,
+    "comments": 3,
+    "created": "2024-02-26T05:18:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39507908"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Show HN: Get Paid on Time - Simplified Payments for Freelance Developers",
+    "url": "http://matchist.com/get-paid",
+    "author": "timjahn",
+    "points": 21,
+    "comments": 25,
+    "created": "2013-09-10T16:15:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=6360994"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Tell HN: Chicago Indie Hackers meetup",
+    "url": "https://www.eventbrite.com/e/indie-hackers-meetup-at-sawada-coffee-tickets-47123105477",
+    "author": "geekjock",
+    "points": 20,
+    "comments": 8,
+    "created": "2018-06-21T22:37:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17369838"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Freelance developer hit the ceiling: what to do next?",
+    "url": "",
+    "author": "anovikov",
+    "points": 20,
+    "comments": 40,
+    "created": "2016-05-08T08:35:27Z",
+    "hn_url": "https://news.ycombinator.com/item?id=11653227"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Teach me market research. What do you use for market research?",
+    "url": "",
+    "author": "rgovind",
+    "points": 19,
+    "comments": 6,
+    "created": "2014-09-08T18:44:10Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8286446"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Show HN: I built a gallary of 200 B2B SaaS pricing pages",
+    "url": "https://www.pageshidara.com/saas-pricing-page-inspo",
+    "author": "pagefarms",
+    "points": 19,
+    "comments": 4,
+    "created": "2023-05-28T12:01:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36103270"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: What do you not like about Product Hunt, Beta List, or Indie Hackers?",
+    "url": "",
+    "author": "RobDukarski",
+    "points": 19,
+    "comments": 4,
+    "created": "2017-04-13T15:49:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14108023"
+  },
+  {
+    "query": "freelance developer",
+    "title": "A Password-Storage Field Study with Freelance Developers [pdf]",
+    "url": "https://net.cs.uni-bonn.de/fileadmin/user_upload/naiakshi/Naiakshina_Password_Study.pdf",
+    "author": "jsnell",
+    "points": 19,
+    "comments": 20,
+    "created": "2019-03-06T12:54:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=19318498"
+  },
+  {
+    "query": "data extraction",
+    "title": "AI Powered Data Extraction API from the Creators of Scrapy",
+    "url": "https://blog.scrapinghub.com/artificial-intelligence-data-extraction-api",
+    "author": "Ian_Kerins",
+    "points": 18,
+    "comments": 0,
+    "created": "2019-04-11T13:23:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=19634204"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: My Indie Hacker goal - Earn $100 a day to keep your desk job away",
+    "url": "",
+    "author": "1hakr",
+    "points": 18,
+    "comments": 16,
+    "created": "2020-08-28T13:39:59Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24304674"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: I built a web app where you can see what tools indiehackers are using",
+    "url": "https://ramen.tools",
+    "author": "serpivore",
+    "points": 18,
+    "comments": 10,
+    "created": "2024-03-27T15:35:06Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39840634"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: What are some alternatives to Indiehackers forum?",
+    "url": "",
+    "author": "karthiksk2012",
+    "points": 18,
+    "comments": 5,
+    "created": "2017-05-11T16:57:02Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14317528"
+  },
+  {
+    "query": "freelance developer",
+    "title": "HN Job: Need freelance web developer",
+    "url": "",
+    "author": "lefstathiou",
+    "points": 18,
+    "comments": 0,
+    "created": "2011-01-30T21:55:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2159300"
+  },
+  {
+    "query": "automation tool",
+    "title": "Coding for non-programmers: we need better web GUI automation tools. (2021)",
+    "url": "https://matduggan.com/why-we-need-better/",
+    "author": "fanf2",
+    "points": 17,
+    "comments": 2,
+    "created": "2024-05-10T16:42:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40321013"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Linking SaaS Software Pricing to Value",
+    "url": "http://www.readwriteweb.com/archives/linking_saas_software_pricing_to_value.php",
+    "author": "swombat",
+    "points": 17,
+    "comments": 13,
+    "created": "2009-02-06T10:01:05Z",
+    "hn_url": "https://news.ycombinator.com/item?id=469584"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Cofounder matching for indie hackers and bootstrappers",
+    "url": "https://indie.cofounderdat.ing",
+    "author": "nityeshaga",
+    "points": 17,
+    "comments": 10,
+    "created": "2024-07-20T11:20:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41015667"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: I made a newsletter for indie hackers who know nothing about marketing",
+    "url": "https://marketing-for-indie-hackers.ck.page/8d99bec8e6",
+    "author": "keyserfaty",
+    "points": 17,
+    "comments": 4,
+    "created": "2020-04-13T11:20:07Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22854819"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Xtrct.io – Automatic product data extraction",
+    "url": "https://xtrct.io",
+    "author": "static416",
+    "points": 16,
+    "comments": 6,
+    "created": "2019-04-02T17:08:59Z",
+    "hn_url": "https://news.ycombinator.com/item?id=19556358"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: SaaS pricing for B2C && B2B (ex. 37s, Wufoo)",
+    "url": "",
+    "author": "wensing",
+    "points": 16,
+    "comments": 11,
+    "created": "2010-08-16T19:30:30Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1608892"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Thirty-something freelance developer. What next?",
+    "url": "",
+    "author": "odev",
+    "points": 16,
+    "comments": 17,
+    "created": "2014-09-19T20:41:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8342378"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Freelance web developer advice",
+    "url": "",
+    "author": "shire",
+    "points": 16,
+    "comments": 11,
+    "created": "2014-06-18T15:04:54Z",
+    "hn_url": "https://news.ycombinator.com/item?id=7910498"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Freelance/contract developers – who are your clients? (BigCo, SMB, etc.)",
+    "url": "",
+    "author": "timjahn",
+    "points": 16,
+    "comments": 5,
+    "created": "2015-02-17T21:00:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9064934"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Freelance web developers, what do your contracts typically look like?",
+    "url": "",
+    "author": "marcusmolchany",
+    "points": 16,
+    "comments": 2,
+    "created": "2014-08-06T20:19:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8144622"
+  },
+  {
+    "query": "market research",
+    "title": "Has anyone done market research for their startup?",
+    "url": "",
+    "author": "Skeletor",
+    "points": 15,
+    "comments": 17,
+    "created": "2008-10-09T21:14:11Z",
+    "hn_url": "https://news.ycombinator.com/item?id=328279"
+  },
+  {
+    "query": "data extraction",
+    "title": "AWS launches Textract, machine learning for text and data extraction",
+    "url": "https://venturebeat.com/2019/05/29/aws-launches-textract-machine-learning-for-text-and-data-extraction/",
+    "author": "mjirv",
+    "points": 15,
+    "comments": 2,
+    "created": "2019-05-30T00:23:54Z",
+    "hn_url": "https://news.ycombinator.com/item?id=20047161"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Any suggestions on good places to find freelance developers?",
+    "url": "",
+    "author": "nickadams",
+    "points": 15,
+    "comments": 28,
+    "created": "2007-11-28T01:45:59Z",
+    "hn_url": "https://news.ycombinator.com/item?id=84091"
+  },
+  {
+    "query": "market research",
+    "title": "Ask YC: What resources do you use for your market research?",
+    "url": "",
+    "author": "ryanspahn",
+    "points": 14,
+    "comments": 14,
+    "created": "2008-04-26T08:24:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=174257"
+  },
+  {
+    "query": "market research",
+    "title": "Ask YC: how to do market research?",
+    "url": "",
+    "author": "tapostrophemo",
+    "points": 14,
+    "comments": 12,
+    "created": "2007-11-01T23:40:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=75267"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Why we put our competitors on our SaaS pricing page",
+    "url": "http://blog.profitwell.com/why-we-put-our-competitors-on-our-saas-pricing-page",
+    "author": "pccampbell",
+    "points": 14,
+    "comments": 0,
+    "created": "2015-04-15T16:30:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9382117"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing Research: 1k Companies",
+    "url": "https://academyocean.com/1000-pricing-pages",
+    "author": "vladimirpolo",
+    "points": 14,
+    "comments": 0,
+    "created": "2019-06-19T14:49:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=20223868"
+  },
+  {
+    "query": "indie hacker",
+    "title": "On moving away from a six figure consultancy to becoming an indie hacker",
+    "url": "https://matteomosca.io/how-covid-and-a-kick-scooter-turned-me-into-an-indie-hacker",
+    "author": "jv22222",
+    "points": 14,
+    "comments": 10,
+    "created": "2020-09-10T02:52:18Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24428473"
+  },
+  {
+    "query": "market research",
+    "title": "Whale Path – Crowdsourcing Market Research Analytics",
+    "url": "https://whalepath.com/challenge/list",
+    "author": "dev1n",
+    "points": 13,
+    "comments": 2,
+    "created": "2015-02-22T21:59:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9091338"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Free, fast bank data merchant extraction API for FinTechs",
+    "url": "https://www.herondata.io/post/free-merchant-extraction",
+    "author": "parkerjamie1993",
+    "points": 13,
+    "comments": 7,
+    "created": "2021-10-12T09:08:30Z",
+    "hn_url": "https://news.ycombinator.com/item?id=28837646"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: LocalOps – Deployment automation tool to make Private SaaS easy",
+    "url": "https://localops.co",
+    "author": "luckydev",
+    "points": 13,
+    "comments": 0,
+    "created": "2024-08-15T18:35:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41259062"
+  },
+  {
+    "query": "automation tool",
+    "title": "Kafe is an open-source scriptable systems automation toolkit",
+    "url": "https://github.com/libkafe/kafe",
+    "author": "addvilz",
+    "points": 13,
+    "comments": 0,
+    "created": "2020-03-07T09:23:27Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22510762"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: Most successful SaaS pricing structure you've found?",
+    "url": "",
+    "author": "bookjunkie13",
+    "points": 13,
+    "comments": 9,
+    "created": "2016-03-29T14:09:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=11381570"
+  },
+  {
+    "query": "saas pricing",
+    "title": "5 key learnings from analyzing top B2B SaaS pricing pages",
+    "url": "https://chartmogul.com/blog/2015/05/b2b-saas-pricing/",
+    "author": "nickfzx",
+    "points": 13,
+    "comments": 0,
+    "created": "2015-05-05T14:48:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9492764"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: Who are your favourite indie hackers?",
+    "url": "",
+    "author": "crsr",
+    "points": 13,
+    "comments": 7,
+    "created": "2021-04-10T17:32:29Z",
+    "hn_url": "https://news.ycombinator.com/item?id=26763260"
+  },
+  {
+    "query": "indie hacker",
+    "title": "A PaaS dedicated to indie hackers and small teams",
+    "url": "https://www.pushsee.com",
+    "author": "kamrani",
+    "points": 13,
+    "comments": 5,
+    "created": "2022-05-30T12:57:21Z",
+    "hn_url": "https://news.ycombinator.com/item?id=31558487"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: How to hire freelance developer for an MVP?",
+    "url": "",
+    "author": "bitesociety",
+    "points": 13,
+    "comments": 24,
+    "created": "2020-06-25T14:38:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=23641233"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Becoming a freelance web developer",
+    "url": "",
+    "author": "shire",
+    "points": 13,
+    "comments": 15,
+    "created": "2015-05-25T23:00:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9602090"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Is there an easy way(Cheap) to do market research?",
+    "url": "",
+    "author": "WesleyThurner",
+    "points": 12,
+    "comments": 8,
+    "created": "2013-05-23T15:31:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=5757367"
+  },
+  {
+    "query": "market research",
+    "title": "Show HN: MetaList – Machine learning-assisted market research",
+    "url": "https://www.meta.re/market-research",
+    "author": "zthomas",
+    "points": 12,
+    "comments": 1,
+    "created": "2017-02-16T00:02:23Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13656737"
+  },
+  {
+    "query": "data extraction",
+    "title": "Scaling Document Data Extraction with LLMs and Vector Databases",
+    "url": "https://www.timescale.com/blog/scaling-document-data-extraction-with-llms-vector-databases/",
+    "author": "avthar",
+    "points": 12,
+    "comments": 2,
+    "created": "2024-11-15T16:17:45Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42148269"
+  },
+  {
+    "query": "automation tool",
+    "title": "Ask HN: What are the best web build and deploy automation tools?",
+    "url": "",
+    "author": "teapot01",
+    "points": 12,
+    "comments": 7,
+    "created": "2016-01-09T05:40:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=10870239"
+  },
+  {
+    "query": "automation tool",
+    "title": "Open-Source Admin Dashboards – Built with Automation Tools",
+    "url": "https://github.com/app-generator/admin-dashboards",
+    "author": "devSm0ke",
+    "points": 12,
+    "comments": 2,
+    "created": "2019-11-03T16:03:26Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21434639"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Saas Pricing – Shopify, Zendesk, and StatusPage",
+    "url": "https://www.chargebee.com/blog/saas-pricing-strategies-experiments/",
+    "author": "skrish",
+    "points": 12,
+    "comments": 0,
+    "created": "2017-06-21T11:25:14Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14602742"
+  },
+  {
+    "query": "indie hacker",
+    "title": "What job profiles are suitable for a generalist IndieHacker?",
+    "url": "",
+    "author": "milanspeaks",
+    "points": 12,
+    "comments": 12,
+    "created": "2019-01-24T18:28:02Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18991414"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Convincing my friend to become an indie hacker [Newsletter]",
+    "url": "",
+    "author": "mattfreire",
+    "points": 12,
+    "comments": 1,
+    "created": "2020-10-26T17:08:31Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24898443"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: How do freelance developers determine the scope of projects?",
+    "url": "",
+    "author": "startupstella",
+    "points": 12,
+    "comments": 2,
+    "created": "2012-06-19T17:12:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4132916"
+  },
+  {
+    "query": "freelance developer",
+    "title": "StackExchange site for Freelance Developers - needs your votes",
+    "url": "http://area51.stackexchange.com/proposals/11624/freelance-developers",
+    "author": "tomsaffell",
+    "points": 12,
+    "comments": 1,
+    "created": "2010-10-07T16:28:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1768353"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: How do you perform market research for your ideas?",
+    "url": "",
+    "author": "cloudking",
+    "points": 11,
+    "comments": 9,
+    "created": "2020-08-06T18:33:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24074007"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: how do you conduct market research?",
+    "url": "",
+    "author": "drewblaisdell",
+    "points": 11,
+    "comments": 7,
+    "created": "2013-11-15T19:47:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=6741681"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Painless Data Extraction and Web Automation",
+    "url": "https://www.agentql.com",
+    "author": "shuhao_tf",
+    "points": 11,
+    "comments": 1,
+    "created": "2024-08-20T07:04:07Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41297531"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: B2B SaaS Pricing ",
+    "url": "",
+    "author": "equilibrium",
+    "points": 11,
+    "comments": 7,
+    "created": "2013-12-01T07:00:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=6826450"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: Calendar Integrations API for Indie Hackers and Startups",
+    "url": "https://www.pyas.io",
+    "author": "jay-barronville",
+    "points": 11,
+    "comments": 4,
+    "created": "2023-08-30T14:06:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=37322376"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: I built a more Indie Hacker friendly version of Product Hunt",
+    "url": "https://thehackstack.com/?ref=HN",
+    "author": "gigamick",
+    "points": 11,
+    "comments": 4,
+    "created": "2020-09-15T15:13:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24482092"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: How does a freelance web developer find clients?",
+    "url": "",
+    "author": "_g2lm",
+    "points": 11,
+    "comments": 13,
+    "created": "2013-05-22T20:38:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=5753537"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Freelance Web Developer Best Practices?",
+    "url": "http://ask.slashdot.org/askslashdot/08/12/07/1822235.shtml",
+    "author": "illumen",
+    "points": 11,
+    "comments": 0,
+    "created": "2008-12-08T01:14:08Z",
+    "hn_url": "https://news.ycombinator.com/item?id=389339"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Forrst can help you find freelance developers and designers",
+    "url": "https://kylebragger.wufoo.com/forms/find-freelancers/",
+    "author": "zackkitzmiller",
+    "points": 11,
+    "comments": 0,
+    "created": "2011-07-07T18:00:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2739549"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Where to get quality market research data and analysis?",
+    "url": "",
+    "author": "stevenj",
+    "points": 10,
+    "comments": 2,
+    "created": "2012-06-07T04:20:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4077588"
+  },
+  {
+    "query": "data extraction",
+    "title": "Grepsr for Chrome – a super easy data extraction tool",
+    "url": "https://www.grepsr.com/chrome-extension/",
+    "author": "subratbasnet",
+    "points": 10,
+    "comments": 2,
+    "created": "2017-04-06T12:29:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14049916"
+  },
+  {
+    "query": "data extraction",
+    "title": "Special Characters Attack: Toward Scalable Training Data Extraction from LLMs",
+    "url": "https://arxiv.org/abs/2405.05990",
+    "author": "PaulHoule",
+    "points": 10,
+    "comments": 0,
+    "created": "2024-05-16T22:06:05Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40383885"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: I turned my email automation tool into a full-fledged email platform",
+    "url": "https://www.useplunk.com",
+    "author": "driaug",
+    "points": 10,
+    "comments": 10,
+    "created": "2023-06-09T08:50:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36255098"
+  },
+  {
+    "query": "automation tool",
+    "title": "Ask HN: Is Selenium still the best automation tool in 2020?",
+    "url": "",
+    "author": "qalearner",
+    "points": 10,
+    "comments": 5,
+    "created": "2020-04-05T17:10:14Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22786820"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Organize – The file management automation tool",
+    "url": "https://github.com/tfeldmann/organize",
+    "author": "tfeldmann",
+    "points": 10,
+    "comments": 3,
+    "created": "2018-03-13T14:52:41Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16576567"
+  },
+  {
+    "query": "automation tool",
+    "title": "AWS automation tools. Why terraform",
+    "url": "http://alexander.holbreich.org/aws-automation/",
+    "author": "shuron",
+    "points": 10,
+    "comments": 0,
+    "created": "2017-04-03T16:36:27Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14024294"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Low-Code Tool for Managing SaaS Pricing",
+    "url": "https://manifold.co/blog/announcing-plan-builder-developer-preview",
+    "author": "whoisnnamdi",
+    "points": 10,
+    "comments": 1,
+    "created": "2020-04-10T00:19:05Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22828648"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: Why is IndieHackers website so slow?",
+    "url": "",
+    "author": "seddin",
+    "points": 10,
+    "comments": 5,
+    "created": "2020-07-16T14:51:05Z",
+    "hn_url": "https://news.ycombinator.com/item?id=23859547"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: An online meetup group for indie hackers",
+    "url": "https://hopin.to/events/indie-worldwide-meetup-february-2020",
+    "author": "antcas",
+    "points": 10,
+    "comments": 4,
+    "created": "2020-02-03T12:39:16Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22223605"
+  },
+  {
+    "query": "indie hacker",
+    "title": "A virtual meetup group for Indie Hackers",
+    "url": "https://indieworldwide.co/",
+    "author": "antcas",
+    "points": 10,
+    "comments": 2,
+    "created": "2020-06-17T14:05:13Z",
+    "hn_url": "https://news.ycombinator.com/item?id=23551524"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: Which post on Indie hacker is your favourite and why?",
+    "url": "",
+    "author": "cinbun8",
+    "points": 10,
+    "comments": 2,
+    "created": "2017-10-21T14:44:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15521980"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Indie hacker reaches $8k and ramen profitability in 6 months",
+    "url": "https://founderbeats.com/saas-starterkit-react-codebase-saasui",
+    "author": "eelcow",
+    "points": 10,
+    "comments": 1,
+    "created": "2022-10-18T16:24:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33249859"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: How to scale MRR as freelance web developer?",
+    "url": "",
+    "author": "codingnils",
+    "points": 10,
+    "comments": 6,
+    "created": "2021-04-23T14:04:44Z",
+    "hn_url": "https://news.ycombinator.com/item?id=26914900"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Show HN: A Sexy Proposal Generator for Freelance Developers",
+    "url": "http://gun.io/blog/a-proposal-generator-template-for-freelancers/",
+    "author": "Mizza",
+    "points": 10,
+    "comments": 3,
+    "created": "2012-04-25T20:09:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3890791"
+  },
+  {
+    "query": "freelance developer",
+    "title": "How to succeed as a freelance developer",
+    "url": "http://chriseidhof.tumblr.com/post/8652404820/how-to-succeed-as-a-freelance-developer",
+    "author": "chriseidhof",
+    "points": 10,
+    "comments": 3,
+    "created": "2011-08-08T18:33:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2861072"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Advice for the Freelance Developer",
+    "url": "https://medium.com/@marknutter/advice-for-the-freelance-developer-68b63c69b050",
+    "author": "marknutter",
+    "points": 10,
+    "comments": 3,
+    "created": "2016-01-11T17:21:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=10881713"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Show HN: CodementorX – Hire freelance developers on demand",
+    "url": "https://hire.codementor.io",
+    "author": "weitingliu",
+    "points": 10,
+    "comments": 1,
+    "created": "2016-12-13T14:20:10Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13166911"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: How do you do market research for a software business?",
+    "url": "",
+    "author": "ahnick",
+    "points": 9,
+    "comments": 4,
+    "created": "2019-05-25T15:31:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=20009562"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Sculptor – Python library for LLM structured data extraction (MIT)",
+    "url": "https://github.com/lightning-rod-labs/sculptor",
+    "author": "bturtel",
+    "points": 9,
+    "comments": 0,
+    "created": "2025-01-14T18:01:19Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42701114"
+  },
+  {
+    "query": "automation tool",
+    "title": "Mina: Really fast deployer and server automation tool",
+    "url": "http://nadarei.co/mina/",
+    "author": "esolyt",
+    "points": 9,
+    "comments": 1,
+    "created": "2014-02-15T12:47:10Z",
+    "hn_url": "https://news.ycombinator.com/item?id=7243610"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Dep, a software build automation tool",
+    "url": "https://depbuild.org",
+    "author": "mattrickard",
+    "points": 9,
+    "comments": 1,
+    "created": "2024-10-12T02:36:26Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41815909"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Scaling SaaS Pricing for Both B2B and B2C Customers",
+    "url": "https://chartmogul.com/blog/2015/05/problem-saas-pricing-b2b-b2c-customers/",
+    "author": "Mr_Ed",
+    "points": 9,
+    "comments": 0,
+    "created": "2015-05-20T14:42:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9576619"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: Are Medium/PH/IndieHackers outdated for startups?",
+    "url": "",
+    "author": "stefanneculai",
+    "points": 9,
+    "comments": 12,
+    "created": "2024-09-09T14:06:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41488713"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Ask HN: Are you a digital maker, indie \"hacker\", indie developer?",
+    "url": "",
+    "author": "feriforgacs",
+    "points": 9,
+    "comments": 11,
+    "created": "2019-12-13T12:49:26Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21781082"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: Indie Hacker projects described in 50 characters or less",
+    "url": "https://fifty.weekendprojects.xyz/",
+    "author": "hesseldijkstra",
+    "points": 9,
+    "comments": 6,
+    "created": "2020-06-07T09:17:06Z",
+    "hn_url": "https://news.ycombinator.com/item?id=23445961"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Awesome Indie Hackers",
+    "url": "https://github.com/johackim/awesome-indiehackers",
+    "author": "damir",
+    "points": 9,
+    "comments": 2,
+    "created": "2024-02-05T12:26:16Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39260503"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Cloudflare made it much easier to become an indie hacker",
+    "url": "https://www.indiehackers.com/post/cloudflare-made-it-much-easier-to-become-an-indie-hacker-16be255f6a",
+    "author": "gmays",
+    "points": 9,
+    "comments": 2,
+    "created": "2022-11-07T17:17:19Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33508832"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Vibe coding is changing the indiehacker landscape",
+    "url": "https://wonderful.dev/alan/post/thread_mfetqzf2srr06krwevaqe2xl",
+    "author": "welder",
+    "points": 9,
+    "comments": 1,
+    "created": "2025-05-19T18:25:58Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44033042"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Freelance developers, how much control do you have over your schedule?",
+    "url": "",
+    "author": "the_only_law",
+    "points": 9,
+    "comments": 4,
+    "created": "2021-05-03T15:56:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=27026688"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Skills which are under supplied by freelance developers?",
+    "url": "",
+    "author": "pendragon",
+    "points": 9,
+    "comments": 3,
+    "created": "2012-02-09T23:56:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3573795"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Freelance Software Developer Rates Up 35% in the US",
+    "url": "http://www.odesk.com/blog/2009/05/freelance-software-developer-rates-up-35-in-the-united-states/",
+    "author": "vaksel",
+    "points": 9,
+    "comments": 2,
+    "created": "2009-05-22T14:21:19Z",
+    "hn_url": "https://news.ycombinator.com/item?id=622087"
+  },
+  {
+    "query": "market research",
+    "title": "Show HN: Stockstack.AI – Distraction-free stock market research",
+    "url": "https://stockstack.ai/#hn",
+    "author": "miqqeio",
+    "points": 8,
+    "comments": 1,
+    "created": "2023-07-08T19:58:13Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36648137"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Siphon.js – A data extraction library built for scale",
+    "url": "http://siphonjs.com/",
+    "author": "sooeung2",
+    "points": 8,
+    "comments": 2,
+    "created": "2016-12-20T18:30:18Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13222523"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: onprem unstructured data extraction with 4 lines of code",
+    "url": "https://github.com/NanoNets/docext",
+    "author": "souvik3333",
+    "points": 8,
+    "comments": 0,
+    "created": "2025-04-08T10:46:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43620203"
+  },
+  {
+    "query": "data extraction",
+    "title": "How to approach structured data extraction from images",
+    "url": "https://medium.com/@edwardbenson/how-to-approach-structured-data-extraction-from-images-34a1c4a77de4",
+    "author": "eob",
+    "points": 8,
+    "comments": 0,
+    "created": "2018-01-17T19:40:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16171053"
+  },
+  {
+    "query": "automation tool",
+    "title": "ResourceD – Toolkit for helping DevOps to write automation tools",
+    "url": "",
+    "author": "didip",
+    "points": 8,
+    "comments": 1,
+    "created": "2015-10-16T16:06:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=10400212"
+  },
+  {
+    "query": "automation tool",
+    "title": "GPL'd toolkit of Electronic Design Automation tools",
+    "url": "http://www.gpleda.org/",
+    "author": "daveloyall",
+    "points": 8,
+    "comments": 0,
+    "created": "2014-09-19T16:50:15Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8341276"
+  },
+  {
+    "query": "automation tool",
+    "title": "Joining the OSS MongoDB-specific automation tool ecosystem: Dex, the Index Bot",
+    "url": "http://blog.mongolab.com/2012/06/introducing-dex-the-index-bot/",
+    "author": "benwen",
+    "points": 8,
+    "comments": 0,
+    "created": "2012-06-19T16:41:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4132741"
+  },
+  {
+    "query": "automation tool",
+    "title": "Need integrations? When to use a workflow automation tool vs. a Unified API",
+    "url": "https://blog.kloudless.com/2019/02/02/when-to-use-a-workflow-automation-tool-versus-a-unified-api",
+    "author": "_jellyfish",
+    "points": 8,
+    "comments": 0,
+    "created": "2019-02-04T19:56:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=19080021"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Indiehackers now invite-only community",
+    "url": "https://www.indiehackers.com/",
+    "author": "markrobin",
+    "points": 8,
+    "comments": 3,
+    "created": "2021-08-02T14:16:41Z",
+    "hn_url": "https://news.ycombinator.com/item?id=28036806"
+  },
+  {
+    "query": "indie hacker",
+    "title": "1y later, my answer to “Should I quit my full-time job to be an indie hacker?”",
+    "url": "https://www.indiehackers.com/post/my-answer-to-should-you-quit-your-full-time-job-to-be-an-indie-hacker-after-a-year-of-being-indie-27917b8cc8",
+    "author": "txu",
+    "points": 8,
+    "comments": 0,
+    "created": "2020-05-01T20:37:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=23046223"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: Indiehacker jobs – Find jobs helping other indiehackers",
+    "url": "https://www.indiehackers.com/forum/indie-hacker-jobs-find-jobs-helping-other-indie-hackers-a9610a401d",
+    "author": "camhart",
+    "points": 8,
+    "comments": 0,
+    "created": "2018-08-27T22:34:21Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17855112"
+  },
+  {
+    "query": "indie hacker",
+    "title": "How Indie Hackers grew from zero to 170k sessions in 3 months",
+    "url": "https://medium.com/the-mission/how-indie-hackers-grew-from-zero-to-170k-sessions-in-3-months-ded6b2eb032#.hvwwutc25",
+    "author": "eliotpeper",
+    "points": 8,
+    "comments": 0,
+    "created": "2016-11-28T16:47:50Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13056590"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Getting Freelance Developer Jobs",
+    "url": "https://www.vincentschmalbach.com/getting-freelance-developer-jobs/",
+    "author": "vincent_s",
+    "points": 8,
+    "comments": 1,
+    "created": "2023-10-10T14:52:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=37832861"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Red Flags for Freelance Web Developers",
+    "url": "https://medium.com/@littlesparkvt/red-flags-for-freelance-web-developers-90caa79f583f#.oe4xydjik",
+    "author": "astrowilliam",
+    "points": 8,
+    "comments": 0,
+    "created": "2017-01-12T02:55:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13379504"
+  },
+  {
+    "query": "market research",
+    "title": "Democratising market research – a low cost solution for startups and scale-ups",
+    "url": "",
+    "author": "ThomasWink1981",
+    "points": 7,
+    "comments": 8,
+    "created": "2024-08-27T09:51:31Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41365873"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Review My Questionnaire - Is this Good Market Research?",
+    "url": "",
+    "author": "jiaaro",
+    "points": 7,
+    "comments": 8,
+    "created": "2011-07-26T00:02:41Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2805310"
+  },
+  {
+    "query": "market research",
+    "title": "Storage servers, market research",
+    "url": "",
+    "author": "dcc1",
+    "points": 7,
+    "comments": 2,
+    "created": "2013-10-19T15:53:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=6576796"
+  },
+  {
+    "query": "market research",
+    "title": "Show HN: Rocktangle – AI tool to automate market research–saves 10 hours/week",
+    "url": "https://rocktangle.com",
+    "author": "devesh16",
+    "points": 7,
+    "comments": 0,
+    "created": "2025-01-31T08:11:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42885605"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: rtrvr.ai – AI Web Agent for Automating Workflows and Data Extraction",
+    "url": "https://chromewebstore.google.com/detail/rtrvrai/jldogdgepmcedfdhgnmclgemehfhpomg",
+    "author": "arjunchint",
+    "points": 7,
+    "comments": 4,
+    "created": "2024-12-23T19:22:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42496918"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Structured HTML table data extraction from URLs in Go",
+    "url": "https://github.com/nfx/go-htmltable",
+    "author": "nf-x",
+    "points": 7,
+    "comments": 2,
+    "created": "2022-11-11T15:30:18Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33562018"
+  },
+  {
+    "query": "data extraction",
+    "title": "Solving the Data Extraction Problem in 10 Lines of Python",
+    "url": "http://rodricios.github.io/posts/solving_the_data_extraction_problem.html",
+    "author": "bra-ket",
+    "points": 7,
+    "comments": 1,
+    "created": "2015-05-16T21:12:17Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9557635"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Scandium: No-Code Test Automation Tool for Software Testing",
+    "url": "https://getscandium.com/",
+    "author": "IbraheemAdebisi",
+    "points": 7,
+    "comments": 2,
+    "created": "2024-09-24T11:01:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41635241"
+  },
+  {
+    "query": "automation tool",
+    "title": "Ask HN: Best test automation tool for REST APIs",
+    "url": "",
+    "author": "bradwood",
+    "points": 7,
+    "comments": 2,
+    "created": "2022-05-28T07:45:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=31538409"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Backstage – Three-speed scripting language and task automation tool",
+    "url": "https://github.com/pyrustic/backstage",
+    "author": "alexrustic",
+    "points": 7,
+    "comments": 1,
+    "created": "2022-09-15T23:58:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32860135"
+  },
+  {
+    "query": "automation tool",
+    "title": "MagicScript – An App Store Store Automation Tool for Apple Developers",
+    "url": "",
+    "author": "cswenshuo",
+    "points": 7,
+    "comments": 0,
+    "created": "2024-03-25T13:19:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39815930"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: Saas pricing features vs usage?",
+    "url": "",
+    "author": "marktangotango",
+    "points": 7,
+    "comments": 3,
+    "created": "2014-01-03T22:43:33Z",
+    "hn_url": "https://news.ycombinator.com/item?id=7008763"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing Experimentation Handbook",
+    "url": "https://www.potio.cc/blog/experimenting-with-pricing-handbook",
+    "author": "zongitsrinzler",
+    "points": 7,
+    "comments": 0,
+    "created": "2025-02-03T12:19:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42917438"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Like = 1 fun fact about SaaS pricing",
+    "url": "https://twitter.com/awwstn/status/1213215748979445761",
+    "author": "syck",
+    "points": 7,
+    "comments": 0,
+    "created": "2020-01-05T13:22:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21961132"
+  },
+  {
+    "query": "saas pricing",
+    "title": "A SaaS Pricing Story – We dropped prices and quadrupled revenue",
+    "url": "https://medium.com/@mitch_crowe/a-saas-pricing-story-b88517ec92e8",
+    "author": "mcrowe",
+    "points": 7,
+    "comments": 0,
+    "created": "2017-11-05T18:56:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15630919"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Saddest SaaS Pricing Pages of the Year",
+    "url": "http://www.priceintelligently.com/blog/the-saddest-saas-pricing-pages-of-the-year-2015",
+    "author": "pccampbell",
+    "points": 7,
+    "comments": 0,
+    "created": "2016-01-04T23:53:15Z",
+    "hn_url": "https://news.ycombinator.com/item?id=10839786"
+  },
+  {
+    "query": "indie hacker",
+    "title": "Show HN: IndiesReadIt – Find out what successful indiehackers actually read",
+    "url": "https://indiesread.it/",
+    "author": "MajorBaguette",
+    "points": 7,
+    "comments": 12,
+    "created": "2024-04-19T12:48:02Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40086155"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN:  Know any great freelance developers?",
+    "url": "",
+    "author": "MyClean",
+    "points": 7,
+    "comments": 10,
+    "created": "2012-11-26T14:46:50Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4832124"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Dilemma of a freelance developer in the US",
+    "url": "",
+    "author": "slyhatcoderp",
+    "points": 7,
+    "comments": 9,
+    "created": "2012-08-28T07:50:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4442599"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: How should I establish myself as a freelance developer?",
+    "url": "",
+    "author": "throwaway_yes",
+    "points": 7,
+    "comments": 8,
+    "created": "2011-04-18T20:31:52Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2460515"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: Want To Become Freelance Web Developer/Designer",
+    "url": "",
+    "author": "ap4234",
+    "points": 7,
+    "comments": 5,
+    "created": "2012-01-13T09:24:10Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3459816"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Ask HN: What is the best way to find, Vet and Hire a Freelance Developer?",
+    "url": "",
+    "author": "lem72",
+    "points": 7,
+    "comments": 3,
+    "created": "2014-01-15T06:08:49Z",
+    "hn_url": "https://news.ycombinator.com/item?id=7061918"
+  },
+  {
+    "query": "freelance developer",
+    "title": "Guidelines for Freelance Developers Working with Me",
+    "url": "https://mtlynch.io/freelancer-guidelines/",
+    "author": "mtlynch",
+    "points": 7,
+    "comments": 1,
+    "created": "2021-03-12T14:51:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=26436379"
+  },
+  {
+    "query": "freelance developer",
+    "title": "A Comparison of Freelance Developer Platforms",
+    "url": "https://www.codementor.io/blog/crew-vs-gigster-vs-toptal-vs-codementorx-2snicax80l",
+    "author": "j_s",
+    "points": 7,
+    "comments": 0,
+    "created": "2017-10-12T09:51:28Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15456807"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Where to find market research stats?",
+    "url": "",
+    "author": "some1else",
+    "points": 6,
+    "comments": 7,
+    "created": "2010-10-28T16:18:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1843497"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Best practices for market research?",
+    "url": "",
+    "author": "romero99",
+    "points": 6,
+    "comments": 2,
+    "created": "2011-12-20T02:15:41Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3372017"
+  },
+  {
+    "query": "market research",
+    "title": "Market research for startups with limited resources",
+    "url": "http://blog.sourcefully.com/market-research-for-startups-with-limited-res",
+    "author": "patd",
+    "points": 6,
+    "comments": 2,
+    "created": "2011-01-18T14:02:47Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2115777"
+  },
+  {
+    "query": "market research",
+    "title": "Beware Scam Market 'Research' (2017)",
+    "url": "https://ipvm.com/reports/scam-research",
+    "author": "ilamont",
+    "points": 6,
+    "comments": 1,
+    "created": "2018-01-27T23:54:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16248811"
+  },
+  {
+    "query": "market research",
+    "title": "Poor man's market research",
+    "url": "http://vallettaventures.com/?0e2efb68",
+    "author": "jawaddeo",
+    "points": 6,
+    "comments": 0,
+    "created": "2012-01-15T21:15:34Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3468271"
+  },
+  {
+    "query": "data extraction",
+    "title": "LLM APIs for Document Data Extraction",
+    "url": "https://nanonets.com/blog/best-llm-apis-for-document-data-extraction/",
+    "author": "prithiv10",
+    "points": 6,
+    "comments": 3,
+    "created": "2024-08-27T17:43:02Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41370432"
+  },
+  {
+    "query": "data extraction",
+    "title": "Ask HN: Have there been any innovations in crawling or data extraction?",
+    "url": "",
+    "author": "leros",
+    "points": 6,
+    "comments": 3,
+    "created": "2023-06-02T13:55:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36165117"
+  },
+  {
+    "query": "data extraction",
+    "title": "Fine-Tuning VLMs for Data Extraction",
+    "url": "https://nanonets.com/blog/fine-tuning-vision-language-models-vlms-for-data-extraction/",
+    "author": "OceanBreez",
+    "points": 6,
+    "comments": 2,
+    "created": "2024-10-04T10:54:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41740095"
+  },
+  {
+    "query": "data extraction",
+    "title": "Scrapinghubs Developer Data Extraction API for E-Commerce and Article Extraction",
+    "url": "https://blog.scrapinghub.com/developer-data-extraction-api-for-product-article-extraction",
+    "author": "Ian_Kerins",
+    "points": 6,
+    "comments": 2,
+    "created": "2019-04-09T14:32:11Z",
+    "hn_url": "https://news.ycombinator.com/item?id=19615031"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Extractous, Rust based data extraction ~25x faster than unstructured-io",
+    "url": "https://github.com/yobix-ai/extractous",
+    "author": "nmammeri",
+    "points": 6,
+    "comments": 0,
+    "created": "2024-09-21T15:20:50Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41610554"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: A new open-source automation tool as an alternative to Ansible/Salt",
+    "url": "https://github.com/lapce/tiron",
+    "author": "dzhou121",
+    "points": 6,
+    "comments": 5,
+    "created": "2024-04-17T14:19:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40065006"
+  },
+  {
+    "query": "automation tool",
+    "title": "Hammerspoon: A desktop automation tool for OS X",
+    "url": "http://www.hammerspoon.org/go/",
+    "author": "yankcrime",
+    "points": 6,
+    "comments": 3,
+    "created": "2016-02-02T11:47:52Z",
+    "hn_url": "https://news.ycombinator.com/item?id=11018885"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Hey Oliver, a marketing automation tool to convert more visitors faster",
+    "url": "https://www.heyoliver.com",
+    "author": "heyoliver",
+    "points": 6,
+    "comments": 2,
+    "created": "2020-01-24T12:20:28Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22137428"
+  },
+  {
+    "query": "automation tool",
+    "title": "Kragle – A user-extensible web automation tool – Private beta users wanted",
+    "url": "",
+    "author": "sandbender",
+    "points": 6,
+    "comments": 0,
+    "created": "2015-01-28T05:08:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8958232"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: KeyTik – A Powerful All-in-One Macro and Automation Tool",
+    "url": "https://keytik.com/",
+    "author": "Fajar_Rahmad",
+    "points": 6,
+    "comments": 0,
+    "created": "2025-04-10T20:38:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43647827"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: I built an automation tool for Documentation in Github",
+    "url": "https://www.supacodes.com/",
+    "author": "madcoderme",
+    "points": 6,
+    "comments": 0,
+    "created": "2024-05-29T13:23:39Z",
+    "hn_url": "https://news.ycombinator.com/item?id=40511723"
+  },
+  {
+    "query": "automation tool",
+    "title": "I Built an Automation Tool for Developers and Grew It to $28K/Month",
+    "url": "https://www.starterstory.com/headless-browser-service",
+    "author": "patwalls",
+    "points": 6,
+    "comments": 0,
+    "created": "2019-11-30T05:08:22Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21668651"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: Market maker incentives and automation toolkit for Ethereum DEX",
+    "url": "https://github.com/ERCdEX/automation-toolkit",
+    "author": "lindseyrenken",
+    "points": 6,
+    "comments": 0,
+    "created": "2018-05-16T19:39:38Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17085736"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: Anyone using 'good guy' SaaS pricing?",
+    "url": "",
+    "author": "chadkruse",
+    "points": 6,
+    "comments": 7,
+    "created": "2014-04-30T15:31:46Z",
+    "hn_url": "https://news.ycombinator.com/item?id=7673959"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Lessons from the Top 5 SaaS Pricing Pages",
+    "url": "http://blog.priceintelligently.com/the-five-best-saas-pricing-pages",
+    "author": "pccampbell",
+    "points": 6,
+    "comments": 2,
+    "created": "2014-10-09T15:26:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8432954"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Simplicity can become a false idol in SaaS pricing",
+    "url": "https://stytch.com/blog/announcing-new-pricing-and-self-serve-options/",
+    "author": "mcstempel",
+    "points": 6,
+    "comments": 1,
+    "created": "2023-04-24T16:10:10Z",
+    "hn_url": "https://news.ycombinator.com/item?id=35689463"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Analysis of 600 SaaS pricing pages",
+    "url": "https://blog.chartmogul.com/saas-pricing-report/",
+    "author": "gospodin_i",
+    "points": 6,
+    "comments": 0,
+    "created": "2020-10-15T08:40:01Z",
+    "hn_url": "https://news.ycombinator.com/item?id=24786253"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Anyone want free market research?",
+    "url": "",
+    "author": "GaiaAir",
+    "points": 5,
+    "comments": 5,
+    "created": "2013-04-30T01:57:29Z",
+    "hn_url": "https://news.ycombinator.com/item?id=5630026"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: How did you conduct your market research on the cheap?",
+    "url": "",
+    "author": "jqueryin",
+    "points": 5,
+    "comments": 5,
+    "created": "2011-10-04T11:17:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3070341"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Bootstrapped founders, how do you conduct market research?",
+    "url": "",
+    "author": "zabana",
+    "points": 5,
+    "comments": 3,
+    "created": "2020-01-25T13:10:58Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22146094"
+  },
+  {
+    "query": "market research",
+    "title": "The Cost for IT Services in Europe: Market Research",
+    "url": "http://yalantis.com/blog/cost-services-europe-market-research/",
+    "author": "AdamFort",
+    "points": 5,
+    "comments": 0,
+    "created": "2015-03-31T07:17:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=9294791"
+  },
+  {
+    "query": "market research",
+    "title": "Show HN: Save time on stock market research",
+    "url": "https://www.wallstrank.com/",
+    "author": "contctlink",
+    "points": 5,
+    "comments": 0,
+    "created": "2023-05-09T17:39:00Z",
+    "hn_url": "https://news.ycombinator.com/item?id=35877790"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: How do you perform market research for your product?(SaaS/Software/etc)",
+    "url": "",
+    "author": "mraza007",
+    "points": 5,
+    "comments": 0,
+    "created": "2021-03-17T00:54:06Z",
+    "hn_url": "https://news.ycombinator.com/item?id=26485248"
+  },
+  {
+    "query": "market research",
+    "title": "Functional Programming Market Research 2017",
+    "url": "https://functional.works-hub.com/blog/Functional-Programming-Market-Research-2017",
+    "author": "g4k",
+    "points": 5,
+    "comments": 0,
+    "created": "2017-10-27T16:23:13Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15569848"
+  },
+  {
+    "query": "data extraction",
+    "title": "Offer HN: Data extraction",
+    "url": "",
+    "author": "mathgladiator",
+    "points": 5,
+    "comments": 5,
+    "created": "2010-11-30T20:27:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1955460"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Taggun – Got a project that needs OCR and data extraction? We can help",
+    "url": "https://www.taggun.io/",
+    "author": "taggun",
+    "points": 5,
+    "comments": 4,
+    "created": "2017-03-03T22:32:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13787478"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: I developed a no code web scraper for effortless data extraction",
+    "url": "https://www.scrapementor.com",
+    "author": "asadkhilji",
+    "points": 5,
+    "comments": 1,
+    "created": "2025-02-16T18:04:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43070083"
+  },
+  {
+    "query": "data extraction",
+    "title": "Python Library for Structured Data Extraction via LLM",
+    "url": "https://www.expectedparrot.com/",
+    "author": "npollock",
+    "points": 5,
+    "comments": 1,
+    "created": "2024-08-14T02:20:14Z",
+    "hn_url": "https://news.ycombinator.com/item?id=41241948"
+  },
+  {
+    "query": "data extraction",
+    "title": "Cybersecurity Data Extraction from Common Crawl",
+    "url": "https://arxiv.org/abs/2602.22218",
+    "author": "PaulHoule",
+    "points": 5,
+    "comments": 0,
+    "created": "2026-03-06T15:03:28Z",
+    "hn_url": "https://news.ycombinator.com/item?id=47275731"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Extrai – An open-source tool to fight LLM randomness in data extraction",
+    "url": "https://github.com/Telsho/Extrai",
+    "author": "elias_t",
+    "points": 5,
+    "comments": 0,
+    "created": "2025-11-03T19:14:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45803134"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: Data Extraction with Flexible Schemas",
+    "url": "https://go.sea.dev",
+    "author": "sails",
+    "points": 5,
+    "comments": 0,
+    "created": "2024-12-16T12:42:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42430490"
+  },
+  {
+    "query": "data extraction",
+    "title": "GCC/gcov code coverage data extraction from the target, without FS, OS, or Libc",
+    "url": "https://github.com/nasa-jpl/embedded-gcov",
+    "author": "gsempe",
+    "points": 5,
+    "comments": 0,
+    "created": "2022-02-21T10:21:38Z",
+    "hn_url": "https://news.ycombinator.com/item?id=30414030"
+  },
+  {
+    "query": "data extraction",
+    "title": "How Artificial Intelligence Can Be Applied to Web Data Extraction",
+    "url": "https://www.promptcloud.com/blog/artificial-intelligence-web-data-extraction",
+    "author": "jacobkoshy",
+    "points": 5,
+    "comments": 0,
+    "created": "2017-01-13T12:40:37Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13390352"
+  },
+  {
+    "query": "automation tool",
+    "title": "Show HN: KeyTik: The All-in-One Input Automation Tool",
+    "url": "https://keytik.com/",
+    "author": "Fajar_Rahmad",
+    "points": 5,
+    "comments": 3,
+    "created": "2025-01-10T18:09:51Z",
+    "hn_url": "https://news.ycombinator.com/item?id=42658167"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Does this tiered SAAS pricing model offend you?",
+    "url": "",
+    "author": "fido",
+    "points": 5,
+    "comments": 10,
+    "created": "2010-11-18T21:58:54Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1919436"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: SaaS Pricing Model? Plans or charge per user",
+    "url": "",
+    "author": "seanmccann",
+    "points": 5,
+    "comments": 5,
+    "created": "2011-01-03T21:50:14Z",
+    "hn_url": "https://news.ycombinator.com/item?id=2064827"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Best SaaS Pricing Models?",
+    "url": "",
+    "author": "bookjunkie13",
+    "points": 5,
+    "comments": 3,
+    "created": "2016-12-07T20:58:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13126155"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Ask HN: Sales/Marketing/Pricing SaaS Book(s) to Get Started?",
+    "url": "",
+    "author": "a_lifters_life",
+    "points": 5,
+    "comments": 2,
+    "created": "2019-05-26T14:35:29Z",
+    "hn_url": "https://news.ycombinator.com/item?id=20015112"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Show HN: XaaS Pricing – track 25k+ SaaS company pricing strategies in one place",
+    "url": "https://app.xaaspricing.com",
+    "author": "bbelXP",
+    "points": 5,
+    "comments": 1,
+    "created": "2022-08-15T19:31:44Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32474205"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing: Features that Make People Upgrade - kissmetrics Blog",
+    "url": "http://blog.kissmetrics.com/make-people-upgrade/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+KISSmetrics+%28KISSmetrics+Marketing+Blog%29",
+    "author": "ohadfrankfurt",
+    "points": 5,
+    "comments": 0,
+    "created": "2013-05-15T18:17:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=5713753"
+  },
+  {
+    "query": "saas pricing",
+    "title": "5 Best SaaS Pricing Page Features to Add Value",
+    "url": "http://blog.priceintelligently.com/blog/bid/156183/5-Best-SaaS-Pricing-Page-Features-to-Add-Value",
+    "author": "pricingpatticus",
+    "points": 5,
+    "comments": 0,
+    "created": "2012-09-06T16:45:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4484999"
+  },
+  {
+    "query": "saas pricing",
+    "title": "SaaS Pricing",
+    "url": "https://training.kalzumeus.com/newsletters/archive/saas_pricing?__s=fvoeirrcg5s2dzhhdwnz",
+    "author": "putnam",
+    "points": 5,
+    "comments": 0,
+    "created": "2017-12-22T16:15:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=15988487"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Open source SaaS pricing",
+    "url": "https://blog.sentry.io/2017/01/05/a-new-pricing-model.html",
+    "author": "ehfeng",
+    "points": 5,
+    "comments": 0,
+    "created": "2017-01-05T23:11:50Z",
+    "hn_url": "https://news.ycombinator.com/item?id=13332362"
+  },
+  {
+    "query": "market research",
+    "title": "The ridiculousness of asking market research to solopreneur?",
+    "url": "",
+    "author": "andrea81",
+    "points": 4,
+    "comments": 6,
+    "created": "2024-03-12T01:47:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=39675304"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Is buying market research worth it?",
+    "url": "",
+    "author": "dnewcome",
+    "points": 4,
+    "comments": 5,
+    "created": "2009-04-06T20:58:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=549614"
+  },
+  {
+    "query": "market research",
+    "title": "It's all Market Research. There isn't and won't be a bubble. ",
+    "url": "",
+    "author": "rokhayakebe",
+    "points": 4,
+    "comments": 4,
+    "created": "2007-10-19T00:47:50Z",
+    "hn_url": "https://news.ycombinator.com/item?id=70048"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Best way to conduct market research?",
+    "url": "",
+    "author": "jckund",
+    "points": 4,
+    "comments": 3,
+    "created": "2012-05-01T18:33:32Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3915762"
+  },
+  {
+    "query": "market research",
+    "title": "Ask HN: Market research?",
+    "url": "",
+    "author": "Katsumoto",
+    "points": 4,
+    "comments": 2,
+    "created": "2009-08-24T16:26:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=782497"
+  },
+  {
+    "query": "market research",
+    "title": "Free Market Research Methods Part 1 - Analyzing Public Filings",
+    "url": "http://www.tonyamoyal.com/2009/11/23/free-market-research-methods-part-1-analyzing-public-filings/",
+    "author": "corgan1003",
+    "points": 4,
+    "comments": 1,
+    "created": "2009-11-24T15:42:16Z",
+    "hn_url": "https://news.ycombinator.com/item?id=959396"
+  },
+  {
+    "query": "market research",
+    "title": "Market Research Tip for Startups: Use Mechanical Turks",
+    "url": "http://blog.fairsoftware.net/2009/05/28/weekly-gem-from-the-founder-institute-mechanical-turks-for-market-research/",
+    "author": "alain94040",
+    "points": 4,
+    "comments": 1,
+    "created": "2009-05-28T23:02:02Z",
+    "hn_url": "https://news.ycombinator.com/item?id=631161"
+  },
+  {
+    "query": "market research",
+    "title": "Show HN: AI Market Research Agent",
+    "url": "https://github.com/gyinshen/ghostagent",
+    "author": "gyinshen",
+    "points": 4,
+    "comments": 1,
+    "created": "2023-10-27T14:19:36Z",
+    "hn_url": "https://news.ycombinator.com/item?id=38038777"
+  },
+  {
+    "query": "market research",
+    "title": "Data as a Service for Market Research",
+    "url": "http://blog.promptcloud.com/2013/04/data-as-a-service-for-market-research.html",
+    "author": "promptcloud",
+    "points": 4,
+    "comments": 0,
+    "created": "2013-04-12T13:34:57Z",
+    "hn_url": "https://news.ycombinator.com/item?id=5538340"
+  },
+  {
+    "query": "market research",
+    "title": "Most Market Research Is Horse Shit",
+    "url": "https://www.younglingfeynman.com/essays/marketresearch",
+    "author": "rjyoungling",
+    "points": 4,
+    "comments": 0,
+    "created": "2020-02-18T15:05:55Z",
+    "hn_url": "https://news.ycombinator.com/item?id=22356522"
+  },
+  {
+    "query": "market research",
+    "title": "I Started an $8M/Year Stock Market Research Website",
+    "url": "https://www.starterstory.com/stock-market-research-website",
+    "author": "patwalls",
+    "points": 4,
+    "comments": 0,
+    "created": "2019-12-29T21:55:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=21908822"
+  },
+  {
+    "query": "market research",
+    "title": "Market Research Using Conjoint Analysis in R",
+    "url": "https://blog.sicara.com/market-research-survey-conjoint-analysis-r-code-3d4f6190c2aa",
+    "author": "martmull",
+    "points": 4,
+    "comments": 0,
+    "created": "2018-04-23T13:36:15Z",
+    "hn_url": "https://news.ycombinator.com/item?id=16903255"
+  },
+  {
+    "query": "data extraction",
+    "title": "Website Data Extraction",
+    "url": "https://www.promptcloud.com/website-data-extraction/",
+    "author": "vijaygirija",
+    "points": 4,
+    "comments": 0,
+    "created": "2014-12-22T10:45:54Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8782649"
+  },
+  {
+    "query": "data extraction",
+    "title": "CDox: A Google Docs style editor with no AI training or data extraction",
+    "url": "https://cdox.ca/",
+    "author": "jethronethro",
+    "points": 4,
+    "comments": 0,
+    "created": "2026-03-18T20:19:25Z",
+    "hn_url": "https://news.ycombinator.com/item?id=47430909"
+  },
+  {
+    "query": "data extraction",
+    "title": "Agentic Doc: Agentic Data Extraction from Visually Complex Documents",
+    "url": "https://github.com/landing-ai/agentic-doc",
+    "author": "yanng404",
+    "points": 4,
+    "comments": 0,
+    "created": "2025-07-14T01:31:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=44555566"
+  },
+  {
+    "query": "data extraction",
+    "title": "Dude – Uncomplicated Data Extraction",
+    "url": "https://github.com/roniemartinez/dude",
+    "author": "EntICOnc",
+    "points": 4,
+    "comments": 0,
+    "created": "2022-03-24T13:15:43Z",
+    "hn_url": "https://news.ycombinator.com/item?id=30789289"
+  },
+  {
+    "query": "data extraction",
+    "title": "An Experiment in HTML Data Extraction",
+    "url": "http://callvirt.net/blog/post/An-Experiment-in-HTML-Data-Extraction.aspx",
+    "author": "mark_h",
+    "points": 4,
+    "comments": 0,
+    "created": "2010-03-04T02:26:24Z",
+    "hn_url": "https://news.ycombinator.com/item?id=1165931"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Why isn't there separate SaaS pricing for developing countries?",
+    "url": "",
+    "author": "manidoraisamy",
+    "points": 4,
+    "comments": 2,
+    "created": "2013-05-03T16:48:40Z",
+    "hn_url": "https://news.ycombinator.com/item?id=5651055"
+  },
+  {
+    "query": "saas pricing",
+    "title": "A Collection of SaaS Pricing Pages",
+    "url": "https://draftss.com/best-saas-pricing-examples/",
+    "author": "Sid_hussain",
+    "points": 4,
+    "comments": 1,
+    "created": "2022-11-15T14:39:04Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33609638"
+  },
+  {
+    "query": "saas pricing",
+    "title": "The Sudden Shift in SaaS Product Pricing",
+    "url": "http://tomtunguz.com/consumerization-of-it-is-happening/",
+    "author": "jamessun",
+    "points": 4,
+    "comments": 0,
+    "created": "2015-01-06T08:33:56Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8843403"
+  },
+  {
+    "query": "saas pricing",
+    "title": "Better SAAS Pricing Strategies",
+    "url": "http://www.zaru.co/3/post/2012/07/better-saas-pricing-strategies.html?utm_source=hn",
+    "author": "zaru",
+    "points": 4,
+    "comments": 0,
+    "created": "2012-07-04T17:10:03Z",
+    "hn_url": "https://news.ycombinator.com/item?id=4200121"
+  },
+  {
+    "query": "saas pricing",
+    "title": "An idea on SaaS pricing",
+    "url": "http://www.jvandenbroeck.com/2011/12/an-idea-on-saas-pricing/",
+    "author": "jvandenbroeck",
+    "points": 4,
+    "comments": 0,
+    "created": "2011-12-19T22:49:35Z",
+    "hn_url": "https://news.ycombinator.com/item?id=3371454"
+  },
+  {
+    "query": "data extraction",
+    "title": "We have built semanti.ca, an AI-powered web data extraction API",
+    "url": "https://www.semanti.ca",
+    "author": "semanti_ca",
+    "points": 3,
+    "comments": 2,
+    "created": "2018-08-12T18:26:20Z",
+    "hn_url": "https://news.ycombinator.com/item?id=17745652"
+  },
+  {
+    "query": "data extraction",
+    "title": "Insurance Data Extraction with LLMs",
+    "url": "https://www.adaptional.com/blogs/making-llms-work-for-insurance-data",
+    "author": "acesohc",
+    "points": 3,
+    "comments": 1,
+    "created": "2025-11-18T18:43:12Z",
+    "hn_url": "https://news.ycombinator.com/item?id=45970253"
+  },
+  {
+    "query": "data extraction",
+    "title": "Data Extraction from any Text returned in JSON format",
+    "url": "https://www.twilix.io",
+    "author": "jeffsterip",
+    "points": 3,
+    "comments": 1,
+    "created": "2023-06-08T18:13:38Z",
+    "hn_url": "https://news.ycombinator.com/item?id=36246217"
+  },
+  {
+    "query": "data extraction",
+    "title": "Data extraction from vector graphics in scientific publications",
+    "url": "https://github.com/jhamlin-ufl/vextract",
+    "author": "bit-dissector",
+    "points": 3,
+    "comments": 1,
+    "created": "2022-10-20T03:32:53Z",
+    "hn_url": "https://news.ycombinator.com/item?id=33270544"
+  },
+  {
+    "query": "data extraction",
+    "title": "Structured HTML table data extraction from URLs in Go",
+    "url": "https://github.com/nfx/go-htmltable",
+    "author": "nf-x",
+    "points": 3,
+    "comments": 1,
+    "created": "2022-09-23T17:04:19Z",
+    "hn_url": "https://news.ycombinator.com/item?id=32954446"
+  },
+  {
+    "query": "data extraction",
+    "title": "Patent: Distributed system for large volume deep web data extraction [pdf]",
+    "url": "https://patentimages.storage.googleapis.com/3d/5d/9d/7b3a438f4431a7/US20170193110A1.pdf",
+    "author": "fforflo",
+    "points": 3,
+    "comments": 1,
+    "created": "2019-01-13T17:46:14Z",
+    "hn_url": "https://news.ycombinator.com/item?id=18897701"
+  },
+  {
+    "query": "data extraction",
+    "title": "Show HN: WOLUXI Data extraction using LED for headless devices diagnostics",
+    "url": "http://www.woluxi.com/info.html",
+    "author": "snirmale",
+    "points": 3,
+    "comments": 1,
+    "created": "2017-05-03T23:00:16Z",
+    "hn_url": "https://news.ycombinator.com/item?id=14260994"
+  },
+  {
+    "query": "data extraction",
+    "title": "Web Scraping and Data extraction the next big future in 2015",
+    "url": "https://www.promptcloud.com/",
+    "author": "vijaygirija",
+    "points": 3,
+    "comments": 0,
+    "created": "2014-11-20T12:18:42Z",
+    "hn_url": "https://news.ycombinator.com/item?id=8635362"
+  },
+  {
+    "query": "data extraction",
+    "title": "Structured data extraction from unstructured content using LLM schemas",
+    "url": "https://simonwillison.net/2025/Feb/28/llm-schemas/",
+    "author": "simonw",
+    "points": 3,
+    "comments": 0,
+    "created": "2025-02-28T17:39:45Z",
+    "hn_url": "https://news.ycombinator.com/item?id=43208263"
+  }
+]
