@@ -49,3 +49,15 @@ Collected via [HN Algolia API](https://hn.algolia.com/api) — free, no API key 
 
 I build web scrapers and extract data from any website. Starting at $20.
 Email: Spinov001@gmail.com
+
+
+---
+
+## Need a Custom Tool Built?
+
+I build **production-ready scrapers, APIs, and data tools** — 88+ deployed on Apify, 270+ open-source repos.
+
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your project, get a free estimate in 2 hours.
+
+🔧 **[Browse 88+ ready-made tools on Apify →](https://apify.com/knotless_cadence)**
+
