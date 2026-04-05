@@ -47,7 +47,7 @@ Collected via [HN Algolia API](https://hn.algolia.com/api) — free, no API key 
 
 ## Need Custom Data?
 
-I build web scrapers and extract data from any website. Starting at $20.
+I build web scrapers and extract data from any website — $250 flat rate, 48h delivery.
 Email: Spinov001@gmail.com
 
 
